@@ -4,17 +4,18 @@ Simultaneously taking inspiration from others' lists and wanting to have a decid
 ## Existing lists of resources
 Here are some current 'meta-lists' which already cover a lot of resources, if you don't see a particularly obvious resource in my list, odds are that it is in one of these: 
 - [Methods in Neuro](https://github.com/smweis/methods_in_neuro) Steven Weisberg's GitHub extensive list of resources covering the physics of MRI/fMRI, computational/programming, tools for the analysis of MRI/fMRI data, and online datasets, as part of his 'Methods in Neuroimaging' course at the University of Florida
-- [Methods in Neuro](https://github.com/smweis/methods_in_neuro) sm
-- [Methods in Neuro](https://github.com/smweis/methods_in_neuro) sm
-- [Methods in Neuro](https://github.com/smweis/methods_in_neuro) sm
-
+- [Hitchhacker's guide to the brain](https://learn-neuroimaging.github.io/hitchhackers_guide_brain/) A 'docs' style website with lists of resources for each stage of neuroimaging analysis including file organisation, planning. preregistration, data collection, pre-processing and analysis, and sharing data. By Remi Gau, McGill University and others.
+- [On-line neuroimaging resources](https://github.com/Remi-Gau/online_neuroimaging_resources/blob/master/Main.md) A farily comprehensive list of 'softwares, databases, tutorials, blogs and other resources relevant to learn about neuroimaging or to help perform neuroimaging analysis'. Curated by Remi Gau, McGill University
+- [Dartbrains](https://dartbrains.org/content/intro.html) A notebook style introduction to neuroimaging in Python. The materials cover how scanner generates data, how psychological states can be probed in the scanner, and how this data can be processed and analyzed. Created by Luke Chang, Dartmouth College
 
 ## Neuroimaging
 ### Conceptual understanding
 Struggling to grasp the fundamentals of MRI/fMRI? Want to quickly refresh your mind on the physiological basis of the BOLD signal? Well, these resources are for you!
-- [Principles of fMRI](https://www.youtube.com/@principlesoffmri6920) 
-- []() 
-- []()
+- [Principles of fMRI](https://www.youtube.com/@principlesoffmri6920) The OG YouTube playlist for understanding the conceptual basis of MRI/fMRI. Created by Martin Lindquist and Tor Wager of Dartmouth College
+- [Introduction to Principles of MRI](https://larsonlab.github.io/MRI-education-resources/Introduction.html) A short book and associated simulation code for learning the principles of magnetic resonance imaging (MRI). Created by Peder Larson for students at UCSF
+- [Questions and Answers in MRI](https://mriquestions.com/index.html) Ever had a question about the basis of MRI/fMRI? Written from the perspective of a physicist, this website was specifically made to answer these questions. Created by Allen Elster, Washington University School of Medicine
+- [fMRI Bootcamp](https://cbmm.mit.edu/fmri-bootcamp) A lecture series on fMRI, both conceptual and methodological by Rebecca Saxe, MIT
+
 ### Practical application
 Time to put that knowledge into action. These guides exclusively cover MRI/fMRI analysis as I don't use other imaging modalities such as EEG/MEG, fNIRS, TMS. I highly recommend reading through the official documentation released for the software (e.g., FSL, SPM) as well. [This paper](https://applications.emro.who.int/imemrf/Basic_Clin_Neurosci/Basic_Clin_Neurosci_2012_3_5_71_83.pdf) provides a good overview of such tools.
 - [Introduction to Working with MRI Data in Python](https://carpentries-incubator.github.io/SDC-BIDS-IntroMRI/index.html) A Software Carpentries course covering MRI file types, organisational formats (e.g., BIDS) and working with open datasets
@@ -25,18 +26,15 @@ Time to put that knowledge into action. These guides exclusively cover MRI/fMRI 
 - [Nilearn](https://nilearn.github.io/stable/index.html#) Official docs for nilearn, 'a package that makes it easy to use advanced machine learning techniques to analyze data acquired with MRI machines'
 - [MRI analysis in Python using Nipype, Nilearn and more](https://peerherholz.github.io/workshop_weizmann/index.html) A Jupyter book containing material for a workshop detailing how to use Python to conduct neuroimaging analyses. Created by Peer Herholz, McGill University for The Azrieli National Institute for Human Brain Imaging and Research, Weizmann Institute of Science
 - [BrainIAK](https://brainiak.org/tutorials/) Tutorials for more advanced fMRI analysis including machine learning and real-time fMRI
-- []() 
-- []()
-
 
 ## Computational modeling
-- [](https://huggingface.co/learn/deep-rl-course/unit0/introduction) 
-- [](https://hannekedenouden.ruhosting.nl/RLtutorial/Instructions.html) 
+- [The Deep Reinforcement Learning Course on Hugging Face](https://huggingface.co/learn/deep-rl-course/unit0/introduction) A practical, hands-on course in Deep Reinforcement Learning, from beginner to expert level
+- [Behavioural Modeling](https://hannekedenouden.ruhosting.nl/RLtutorial/Instructions.html) A two-part course covering how to model cognitive behaviour using MATLAB. The first part on standard reinforcement learning models is written by Hanneke den Ouden (Donders Institute), with the second section on Bayesian learning models written by Jill O'Reilly (Oxford University)
 - [](https://gateway.ipfs.io/ipfs/bafykbzacech7brpxgpckr4zalot5xc5m3336xgb6fuistzod2dlkdftiti4y4?filename=Richard%20S.%20Sutton%2C%20Andrew%20G%20Barto%20-%20Reinforcement%20Learning_%20An%20Introduction%2C%202nd%20Edition-Bradford%20Books%20%282018%29.pdf) 
-- [](https://compneuro.neuromatch.io/tutorials/intro.html)
-- [](https://ccs-lab.github.io/hBayesDM/articles/getting_started.html)
+- [Neuromatch Academy Computational Neuroscience Course](https://compneuro.neuromatch.io/tutorials/intro.html) A wide-spanning curriculum that covers most areas of computational neuroscience. Some material may be more relevant than others, e.g., Modeling, Reinforcement Learning
+- [hbayesDM](https://ccs-lab.github.io/hBayesDM/articles/getting_started.html) Documentation and guides for the hBayesDM package in R, a 'user-friendly package that offers hierarchical Bayesian analysis of various computational models on an array of decision-making tasks'. By Woo-Young Ahn (Seoul), Nathaniel Haines (Ohio State) and Lei Zhang (Birmingham)
 - [Bayesian Models of Learning and Integration of Neuroimaging Data](https://training.incf.org/lesson/modelling-cognition-using-bayesian-inference) A four-session course teaching how Bayesian statistics may be used to build cognitive models of processes like learning or perception and theoretical and practical instruction on dynamic causal modeling as applied to fMRI and EEG data. Hosted on the INCF, ran by the Krembil Institute for Neuroinformatics
-- - [Bayesian Statistics and Bayesian Cognitive Modeling, Part 2](https://github.com/lei-zhang/BayesCog_Part2) The second part (two-days) of a five-day workshop covering Bayesian statistics and cognitive modeling. This second part focuses on more complex Bayesian models including hierarchical models, as well as Bayesian regression. Created by Lei Zhang, University of Birmingham
+- [Bayesian Statistics and Bayesian Cognitive Modeling, Part 2](https://github.com/lei-zhang/BayesCog_Part2) The second part (two-days) of a five-day workshop covering Bayesian statistics and cognitive modeling. This second part focuses on more complex Bayesian models including hierarchical models, as well as Bayesian regression. Created by Lei Zhang, University of Birmingham
 
 ## Programming
 There are loads and loads of online programming courses and resources, I have chosen to list interactive, free guides that focus on learning basic skills.
@@ -55,18 +53,18 @@ There are loads and loads of online programming courses and resources, I have ch
 ### git
 - [Version Control with Git](https://swcarpentry.github.io/git-novice/) Software Carpentries workshop on Git, see the University of Birmingham's version [here](https://bham-carpentries.github.io/git-novice/)
 - [Learn Git Branching](https://learngitbranching.js.org/) A really run and 'gamified' way of learning Git branching created by Peter Cottle
-- []() 
 ### Unix/Linux
 - [The Unix Shell](https://swcarpentry.github.io/shell-novice/) Software Carpentries workshop on Unix
 - [Ubuntu Linux Guide](https://www.nutanix.dev/lab_content/dev-setup-lab/contents/master_linux.html) Nutanix's guide to Linux on Ubuntu
 
-## Other miscellaneous skills cognitive neuroscientists may be interested in learning
-- [Quarto](https://quarto.org/) 
-- [Binder](https://mybinder.readthedocs.io/en/latest/introduction.html) 
-- [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb#scrollTo=lSrWNr3MuFUS) 
-- [Binder](https://kaust-vislab.github.io/introduction-to-docker-for-data-scientists/02-getting-started-with-binder/index.html) 
-- [Jupyter](https://peerherholz.github.io/workshop_weizmann/prerequisites/intro_jupyter.html) 
-- [Phaser](https://phaser.io/learn)
+## Software/useful tools
+- [Quarto](https://quarto.org/) A visually appealing framework for data science, Quarto documents are fully reproducible and support dozens of output formats, like PDFs, Word files, presentations, and more.
+- [Binder](https://mybinder.readthedocs.io/en/latest/introduction.html) 'The Binder project offers an easy place to share computing environments to everyone. by allowing users to specify custom environments and share them with a single link'. See this [link](https://kaust-vislab.github.io/introduction-to-docker-for-data-scientists/02-getting-started-with-binder/index.html) for a tutorial
+- [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb#scrollTo=lSrWNr3MuFUS) A notebook style environment for running code not dissimilar to Binder, but with more GPU
+- [Jupyter](https://peerherholz.github.io/workshop_weizmann/prerequisites/intro_jupyter.html) An interactive environment for running code
+- [Phaser](https://phaser.io/learn) An open source framework for creating interactive games. Increasingly used to create 'gamified' behavioural tasks. See [Agnes Norbury's page](https://github.com/agnesnorbury) for some cool examples
+- [Neurodesk](https://www.neurodesk.org/docs/overview/) A flexible, scalable and easy to use data analysis environment for reproducible neuroimaging. Essentially provides a VM with pre-loaded applications installed for neuroimaging analysis
+- [Brainlife](https://brainlife.io/docs/) An online, community-based platform where users can publish code (Apps) and Data while integrating HPC and cloud-computing resources to run apps
 
 ## Statistics
 ### General statistics knowledge
@@ -78,7 +76,6 @@ There are loads and loads of online programming courses and resources, I have ch
 - [Advanced Analysis Methods in Natural Resources and Environmental Science](https://kevintshoemaker.github.io/NRES-746/LECTURE6.html) Interactive lecture on Bayesian statistics, MCMC and Bayesian modeling as part of a course created by Kevin Shoemaker, University of Nevada, Reno.
 - [An Introduction to Bayesian Data Analysis for Cognitive Science](https://vasishth.github.io/bayescogsci/book/) A GitHub online book for the 'relatively gentle introduction to carrying out Bayesian data analysis and cognitive modeling using the probabilistic programming language Stan'. Written by Bruno Nicenboim (Tilburg), Daniel Schad (Potsdam), and Shravan Vasishth (Potsdam)
 - [Bayesian Statistics and Bayesian Cognitive Modeling, Part 1](https://github.com/lei-zhang/BayesCog_Part1) The first part (three-days) of a five-day workshop covering Bayesian statistics and modeling. This first part covers the basics of Bayesian inference, probability theory and Markov chain Monte Carlo. Created by Lei Zhang, University of Birmingham
-- []()
 
 ## Research guidance, planning and open research practice
 Getting into a field as complicated and challenging as cognitive neuroscience can be overwhelming. These resources are a great guide to organising one's research, 
@@ -87,16 +84,13 @@ Getting into a field as complicated and challenging as cognitive neuroscience ca
 - [ARIADNE](https://igor-biodgps.github.io/ARIADNE/intro.html) A guidebook aimed primarily for early career researchers in the field of life sciences, detailing the process of conducting a transparent and reproducible research project from start to finish
 - [Open and reproducible neuroimaging: From study inception to publication](https://www.sciencedirect.com/science/article/pii/S1053811922007388) A useful paper on how to plan and organise a neuroimaging study
 
-
 ## Free web-courses
 - [INCF Training Space](https://training.incf.org/) A wide range of free courses covering range of topics including neuroscience and reproducibilty, curated by the International Neuroinformatics Coordinating Facility
-- []()
-
 
 ## AI Tools
 Artificial intelligence is now a pivotal component of academic work, whether we like for it to be or not. Whilst AI tools such as GPT were initially not recommended to be used for literature searches and summaries, recent models trained on domain-specific data (i.e., research papers) are significantly more effective, and are not plagued by the previous limitations such as generating fake references.
 ### General search engines/chatbots
-- [ChatGPT](https://chat.openai.com/) Does this need an introduction?
+- [ChatGPT](https://chat.openai.com/) Does this really need an introduction?
 - [Bard](https://bard.google.com/) Google's version of ChatGPT
 ### Research specific tools (references, chatbots, literature summaries)
 - [SciSpace](https://typeset.io/) A great chatbot which can summarise literature/papers in response to a query, and identify simiarly-themed articles. The ChatGPT of research, highly recommended.
@@ -107,11 +101,13 @@ Artificial intelligence is now a pivotal component of academic work, whether we 
 - [Litmaps](https://app.litmaps.com/) Generate visual maps of connected papers
 - [Connected Papers](https://www.connectedpapers.com/) Similar to Litmaps, another tool to generate visual diagrams of connected papers
 
+## Repos
+- [Neurovault](https://neurovault.org/) A public repository of unthresholded statistical maps, parcellations, and atlases of the brain
+- [OpenNeuro](https://openneuro.org/) A public repository of freely available neuroimaging datasets
 
-
-
-## Miscellaneous tools
-
+## Other
+- [BrainBox](https://brainbox.pasteur.fr/) A platform for real-time collaboration in neuroimaging allowing you to visualise, segment and annotate collaboratively any brain MRI dataset available online
+- [Brain Catalogue](https://braincatalogue.org/) An online catalogue of brains across many species
 
 
 
