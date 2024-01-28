@@ -29,13 +29,18 @@ Time to put that knowledge into action. These guides exclusively cover MRI/fMRI 
 - [MRI analysis in Python using Nipype, Nilearn and more](https://peerherholz.github.io/workshop_weizmann/index.html) A Jupyter book containing material for a workshop detailing how to use Python to conduct neuroimaging analyses. Created by Peer Herholz, McGill University for The Azrieli National Institute for Human Brain Imaging and Research, Weizmann Institute of Science
 - [BrainIAK](https://brainiak.org/tutorials/) Tutorials for more advanced fMRI analysis including machine learning and real-time fMRI
 
-## Computational modeling
+## Computational modeling/computational psychiatry
+### Tutorials
 - [The Deep Reinforcement Learning Course on Hugging Face](https://huggingface.co/learn/deep-rl-course/unit0/introduction) A practical, hands-on course in Deep Reinforcement Learning, from beginner to expert level
 - [Behavioural Modeling](https://hannekedenouden.ruhosting.nl/RLtutorial/Instructions.html) A two-part course covering how to model cognitive behaviour using MATLAB. The first part on standard reinforcement learning models is written by Hanneke den Ouden (Donders Institute), with the second section on Bayesian learning models written by Jill O'Reilly (Oxford University)
 - [Neuromatch Academy Computational Neuroscience Course](https://compneuro.neuromatch.io/tutorials/intro.html) A wide-spanning curriculum that covers most areas of computational neuroscience. Some material may be more relevant than others, e.g., Modeling, Reinforcement Learning
 - [hbayesDM](https://ccs-lab.github.io/hBayesDM/articles/getting_started.html) Documentation and guides for the hBayesDM package in R, a 'user-friendly package that offers hierarchical Bayesian analysis of various computational models on an array of decision-making tasks'. By Woo-Young Ahn (Seoul), Nathaniel Haines (Ohio State) and Lei Zhang (Birmingham)
 - [Bayesian Models of Learning and Integration of Neuroimaging Data](https://training.incf.org/lesson/modelling-cognition-using-bayesian-inference) A four-session course teaching how Bayesian statistics may be used to build cognitive models of processes like learning or perception and theoretical and practical instruction on dynamic causal modeling as applied to fMRI and EEG data. Hosted on the INCF, ran by the Krembil Institute for Neuroinformatics
 - [Bayesian Statistics and Bayesian Cognitive Modeling, Part 2](https://github.com/lei-zhang/BayesCog_Part2) The second part (two-days) of a five-day workshop covering Bayesian statistics and cognitive modeling. This second part focuses on more complex Bayesian models including hierarchical models, as well as Bayesian regression. Created by Lei Zhang, University of Birmingham
+### Workshops/Groups
+- [Computational Psychiatry Course Zurich](https://www.translationalneuromodeling.org/cpcourse/) A leading 6-day course organized by the Translational Neuromodeling Unit (TNU), University of Zurich & ETH Zurich designed to provide MSc and PhD students, scientists clinicians and anyone interested in Computational Psychiatry with the necessary toolkit to master challenges in computational psychiatry research. Whilst the workshop is delivered yearly in person, resources for past courses are made available
+- [London-New York Computational Psychiatry course](https://www.cpcourse.org/) CPC++ is 'a hybrid course/conference format to equip the next generation of scientists and clinicians who study mental disorders with the tools to understand, to build, to analyse and to critically evaluate computational models of mental function and dysfunction'
+- [Transcontinental Computational Psychiatry Workgroup (TCPW)](https://www.quentinhuys.com/tcpw/) A monthly speaker series featuring leading academics in the field of computational psychiatry. Past videos of speakers are available on the website. Organised by Quentin Huys (UCL), Martin Paulus (Laureate Institute) and Michael Browning (Oxford)
 
 ## Programming
 There are loads and loads of online programming courses and resources, I have chosen to list interactive, free guides that focus on learning basic skills.
@@ -84,6 +89,7 @@ Getting into a field as complicated and challenging as cognitive neuroscience ca
 - [The Princeton Handbook for Reproducible Neuroimaging](https://brainhack-princeton.github.io/handbook/index.html) - A great guide for how to conduct reproducible neuroimaging research from the Princeton Neuroscience Institute
 - [ARIADNE](https://igor-biodgps.github.io/ARIADNE/intro.html) A guidebook aimed primarily for early career researchers in the field of life sciences, detailing the process of conducting a transparent and reproducible research project from start to finish
 - [Open and reproducible neuroimaging: From study inception to publication](https://www.sciencedirect.com/science/article/pii/S1053811922007388) A useful paper on how to plan and organise a neuroimaging study
+- [Poldrack Lab](https://poldracklab.org/projects.html) A major force in the standardisation and open-nature of neuroimaging research, the Poldrack Lab website contains links to it's manby outputs including [OpenNeuro](https://openneuro.org/), [BIDS](https://bids.neuroimaging.io/), [fMRIPREP](https://fmriprep.org/en/stable/), [MRIQC](https://mriqc.readthedocs.io/en/latest/), [Templateflow](https://www.templateflow.org/) and others.
 
 ## Free web-courses
 - [INCF Training Space](https://training.incf.org/) A wide range of free courses covering range of topics including neuroscience and reproducibilty, curated by the International Neuroinformatics Coordinating Facility
@@ -105,9 +111,12 @@ Artificial intelligence is now a pivotal component of academic work, whether we 
 ## Repos
 - [Neurovault](https://neurovault.org/) A public repository of unthresholded statistical maps, parcellations, and atlases of the brain
 - [OpenNeuro](https://openneuro.org/) A public repository of freely available neuroimaging datasets
+- [The Experiment Factory](https://www.expfactory.org/) An online repository for online behavioral experiments
 
 ## Other
+- [Neurosynth](https://neurosynth.org/) A platform for coordinate-based meta-analysis on neuroimaging data
 - [BrainBox](https://brainbox.pasteur.fr/) A platform for real-time collaboration in neuroimaging allowing you to visualise, segment and annotate collaboratively any brain MRI dataset available online
+- [Cognitive Atlas](https://www.cognitiveatlas.org/) 'A collaborative knowledge base characterizing the state of current thought in Cognitive Science'. It covers four main themes: concepts, tasks, disorders and theroies in neuroscience, which are linked together through formal definitions. Ran by Russ Poldrack, Stanford
 - [Brain Catalogue](https://braincatalogue.org/) An online catalogue of brains across many species
 
 
