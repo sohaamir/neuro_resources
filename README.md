@@ -28,6 +28,7 @@ Time to put that knowledge into action. These guides exclusively cover MRI/fMRI 
 - [Nilearn](https://nilearn.github.io/stable/index.html#) Official docs for nilearn, 'a package that makes it easy to use advanced machine learning techniques to analyze data acquired with MRI machines'
 - [MRI analysis in Python using Nipype, Nilearn and more](https://peerherholz.github.io/workshop_weizmann/index.html) A Jupyter book containing material for a workshop detailing how to use Python to conduct neuroimaging analyses. Created by Peer Herholz, McGill University for The Azrieli National Institute for Human Brain Imaging and Research, Weizmann Institute of Science
 - [BrainIAK](https://brainiak.org/tutorials/) Tutorials for more advanced fMRI analysis including machine learning and real-time fMRI
+- [Explorations of fMRI methods and theory](https://github.com/huffman-spatial-cognition-lab/exploration_of_fMRI_methods_and_theory) A course containing Python notebooks and instructions for running explorations of activation analysis and multivariate pattern analysis (MVPA) to demonstrate the interplay between fMRI methods and theory. Created for an undergraduate cognitive neuroscience course at Colby College by Derek Huffman. See the accompanying preprint [here](https://osf.io/preprints/psyarxiv/8kvfu)
 
 ## Computational modeling/computational psychiatry
 ### Tutorials
