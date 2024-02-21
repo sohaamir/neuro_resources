@@ -7,6 +7,7 @@ Here are some current 'meta-lists' which already cover a lot of resources, if yo
 - [Hitchhacker's guide to the brain](https://learn-neuroimaging.github.io/hitchhackers_guide_brain/) A 'docs' style website with lists of resources for each stage of neuroimaging analysis including file organisation, planning. preregistration, data collection, pre-processing and analysis, and sharing data. By Remi Gau, McGill University and others.
 - [On-line neuroimaging resources](https://github.com/Remi-Gau/online_neuroimaging_resources/blob/master/Main.md) A farily comprehensive list of 'softwares, databases, tutorials, blogs and other resources relevant to learn about neuroimaging or to help perform neuroimaging analysis'. Curated by Remi Gau, McGill University.
 - [Dartbrains](https://dartbrains.org/content/intro.html) A notebook style introduction to neuroimaging in Python. The materials cover how scanner generates data, how psychological states can be probed in the scanner, and how this data can be processed and analyzed. Created by Luke Chang, Dartmouth College.
+- [Awesome statistics](https://github.com/erikgahner/awesome-statistics) This list covers the different aspects of statistics, including probability, causality, hypothesis testing, statistical tests (correlation, regression, Bayesian, Meta-analysis, machine learning), data visulatization and software. In total there are 279 links in the GitHub repo, but the attached dataset in the repository has 1838!! Created by Erik Gahner Lahsen, who also created [Awesome ggplot2](https://github.com/erikgahner/awesome-ggplot2), a similar collection of links for learning about `ggplot2`.
 
 ## Neuroimaging
 ### Conceptual understanding
@@ -53,12 +54,15 @@ There are loads and loads of online programming courses and resources, I have ch
 - [R for Reproducible Scientific Analysis](https://unirdg-carpentries.github.io/r-novice-gapminder-modified/) Software Carpentries' 2-day workshop on R, with a theme on open and reproducible research. Ran by the University of Reading.
 - [R, Open Research, and Reproducibility](https://r-openresearch-reproducibility.netlify.app/) Andrew Stewart's 12-workshop course on R, Open Research, and Reproducibility, taught to students at the University of Manchester.
 - [R, Git and bash](https://unirdg-carpentries.github.io/2021-07-27-Reading-R-Git-Bash/) Software Carpentries' 3-day workshop on Git, Bash and R, with a theme on open and reproducible research. Ran by the University of Reading.
+- [An introduction to R](https://intro2r.com/) An online interactive book detailing R for beginners, including: data manipulation, plotting with ggplot2, basic statistics, functions, markdown and reproducilbity with git/GitHub. Written by Alex Douglas, Deon Roos, Francesca Mancini, Ana Couto & David Lusseau.
 ### Python
 - [Michael Notter's Introduction to Python](https://miykael.github.io/nipype_tutorial/notebooks/introduction_python.html) Uses an interactive notebook format.
 - [Lucas Snoek's Introduction to Python](https://lukas-snoek.com/introPy/solutions/week_1/0_introduction.html) Also uses an interactive Jupyter notebook format.
 ### stan
 - [Getting Started in Rstan](https://github.com/stan-dev/rstan/wiki/RStan-Getting-Started) Rstans GitHub docs to getting started.
 - [NivStan](https://nivlab.github.io/nivstan/) A guide to getting started in stan with tutorials written by the Niv Lab at Princeton.
+- [RStan: the R interface to Stan](https://cran.r-project.org/web/packages/rstan/vignettes/rstan.html) An illustration of the features of RStan from the RStan developers team.
+- [Bayesian Inference with Stan](https://nicholasrjenkins.science/tutorials/bayesian-inference-with-stan/rstan/) A tutorial on how to use stan to perform Bayesian inference, covering stan syntax and how to program linear and binary outcome models. Written by Nick Jenkins, General Motors.
 ### git
 - [Version Control with Git](https://swcarpentry.github.io/git-novice/) Software Carpentries workshop on Git, see the University of Birmingham's version [here](https://bham-carpentries.github.io/git-novice/).
 - [Learn Git Branching](https://learngitbranching.js.org/) A really run and 'gamified' way of learning Git branching created by Peter Cottle.
