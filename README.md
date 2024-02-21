@@ -102,6 +102,11 @@ Getting into a field as complicated and challenging as cognitive neuroscience ca
 - [Open and reproducible neuroimaging: From study inception to publication](https://www.sciencedirect.com/science/article/pii/S1053811922007388) A useful paper on how to plan and organise a neuroimaging study.
 - [Poldrack Lab](https://poldracklab.org/projects.html) A major force in the standardisation and open-nature of neuroimaging research, the Poldrack Lab website contains links to it's manby outputs including [OpenNeuro](https://openneuro.org/), [BIDS](https://bids.neuroimaging.io/), [fMRIPREP](https://fmriprep.org/en/stable/), [MRIQC](https://mriqc.readthedocs.io/en/latest/), [Templateflow](https://www.templateflow.org/) and others.
 - [The Good Research Code Handbook](https://goodresearch.dev/index.html) A handbook for organising code with an emphasis on project management. Written by [Patrick Mineault](https://xcorr.net/about/).
+- [Friends Don't Make Friends Make Bad Graphs](https://github.com/cxli233/FriendsDontLetFriends) A self-titled 'opinionated essay about good and bad practices in data visualization' with examples demonstrated through `R` plots. Created by Chenxin Li, University of Georgia. 
+
+## Philosophy of neuroscience
+What are the limitations of fMRI? What can/can't we infer about the brain using neuroimaging? What does it mean to observe statistically significant activity of the prefrontal cortex in response to a specific stimulus? Asking fundamental questions such as these are pivotal as neuroscientists to understand what our tools can and cannot be used for in our research.
+- [Tal Yarkoni's Essays](https://talyarkoni.org/writing/) Tal Yarkoni publishes essays/papers on a number of topics, including the use of statistics in neuroimaging/science.
 
 ## Free web-courses
 - [INCF Training Space](https://training.incf.org/) A wide range of free courses covering range of topics including neuroscience and reproducibilty, curated by the International Neuroinformatics Coordinating Facility.
