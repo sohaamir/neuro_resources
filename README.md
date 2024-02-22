@@ -1,5 +1,8 @@
 # Useful resources for neuroscientists 🧠 📚
-Simultaneously taking inspiration from others' lists and wanting to have a decidicated space for my own without having to save dozens of tabs, I have decided to create my own (non-exhaustive) list of links and pages for neuroscientists covering neuroimaging, programming and research skills. I aim to update it frequently, and will purposely leave out some resources covered by others which I have not used personally. I also will focus more on resources that are 'online-oriented' i.e., not articles or textbooks, although I will include guides written in the style of an 'online book' as they are interactive and often are the best method of learning. Feel free to star/fork this repo or to suggest your own resources for me to add!
+
+Simultaneously taking inspiration from others' lists and wanting to have a decidicated space for my own without having to save dozens of tabs, I have decided to create my own (non-exhaustive) list of links and pages for neuroscientists covering conceptual subject knowledge, statistics, software, programming, good research practices and online repositories. The list is geared more towards cognitive neuroscience and experimental psychology, and in particular those using fMRI (as this is my own subject area), but regardless of your field within neuroscience/psychology and beyond there should be some useful resources 😊 
+
+I aim to update it frequently, and will purposely leave out some resources covered by others which I have not used personally. I also will focus more on resources that are 'online-oriented' i.e., not articles or textbooks, although I will include guides written in the style of an 'online book' as they are interactive and often are the best method of learning. Feel free to star/fork this repo or to suggest your own resources for me to add!
 
 ## Existing lists of resources
 Here are some current 'meta-lists' which already cover a lot of resources, if you don't see a particularly obvious resource in my list, odds are that it is in one of these: 
@@ -31,6 +34,24 @@ Time to put that knowledge into action. These guides exclusively cover MRI/fMRI 
 - [NEURO `Python` and GLM](https://github.com/N-HEDGER/NEURO_`Python`) An interactive guide to using `Python` for fMRI data analysis, as well as a visual demonstration of concepts in neuroimaging such as proprcessing and the General Linear Model (GLM). The more basic overview of FSL/FEAT and GLM stuff is [here](https://github.com/N-HEDGER/training-fens/tree/main/UoReading). Materials by Nick Hedger, University of Reading.
 - [BrainIAK](https://brainiak.org/tutorials/) Tutorials for more advanced fMRI analysis including machine learning and real-time fMRI.
 - [Explorations of fMRI methods and theory](https://github.com/huffman-spatial-cognition-lab/exploration_of_fMRI_methods_and_theory) A course containing `Python` notebooks and instructions for running explorations of activation analysis and multivariate pattern analysis (MVPA) to demonstrate the interplay between fMRI methods and theory. Created for an undergraduate cognitive neuroscience course at Colby College by Derek Huffman. See the accompanying preprint [here](https://osf.io/preprints/psyarxiv/8kvfu).
+
+### Neuroimaging software/tools
+There are far too many to list, and it doesn't bear mentioning software like [FSL](), [SPM](), [AFNI](), [Freesurfer](), [mricron](), and many others that most people will already know about and use. Instead here are some I think are most important for fMRI research that people may not know about. Many of these are collated on the software section of the NITRC (NeuroImaging Tools and Resources Collaboratory) [website](https://www.nitrc.org/top/toplist.php?type=downloads). 
+- [CONN](https://web.conn-toolbox.org/) 'CONN is an open-source SPM-based cross-platform software for the computation, display, and analysis of functional connectivity Magnetic Resonance Imaging (fcMRI). CONN is used to analyze resting state data (rsfMRI) as well as task-related designs'. Developed by [Alfonso Nieto-Castanon](https://web.alfnie.com/) and Susan Whitfield-Gabrieli, Boston University/MIT.
+- [dcm2niix](https://github.com/rordenlab/dcm2niix) A popular choice (amongst the many available) used to convert neuroimaging data from the DICOM format to the NIfTI format. Created by the Rorden Lab, University of South Carolina.
+- [NeuroDebian](https://neuro.debian.net/) NeuroDebian provides 'a large collection of popular neuroscience research software for the Debian operating system as well as Ubuntu and other derivatives. Popular packages include AFNI, FSL, PyMVPA and many others.' 
+- [Neurodesk](https://www.neurodesk.org/docs/overview/) A flexible, scalable and easy to use data analysis environment for reproducible neuroimaging. Similar to NeuroDebian, Neurodesk provides a VM with pre-loaded applications installed for neuroimaging analysis.
+- [Brainlife](https://brainlife.io/docs/) An online, community-based platform where users can publish code (Apps) and Data while integrating HPC and cloud-computing resources to run apps.
+
+## Behavioural experiments 
+WRITE INTRO SECTION
+### Recruitment
+- 
+Qualtrics, Mturk, prolific
+Gorilla, 
+oTree, LIONESS, nodegame
+- [Phaser](https://phaser.io/learn) An open source framework for creating interactive games. Increasingly used to create 'gamified' behavioural tasks. See [Agnes Norbury's page](https://github.com/agnesnorbury) for some cool examples.
+- 
 
 ## Computational modeling/computational psychiatry
 ### Tutorials
@@ -73,14 +94,12 @@ There are loads and loads of online programming courses and resources, I have ch
 - [The Unix Shell](https://swcarpentry.github.io/shell-novice/) Software Carpentries workshop on Unix.
 - [Ubuntu Linux Guide](https://www.nutanix.dev/lab_content/dev-setup-lab/contents/master_linux.html) Nutanix's guide to Linux on Ubuntu.
 
-## Software/useful tools
+## Tool for writing, organising ad teaching through code
 - [Quarto](https://quarto.org/) A visually appealing framework for data science, Quarto documents are fully reproducible and support dozens of output formats, like PDFs, Word files, presentations, and more.
 - [Binder](https://mybinder.readthedocs.io/en/latest/introduction.html) 'The Binder project offers an easy place to share computing environments to everyone. by allowing users to specify custom environments and share them with a single link'. See this [link](https://kaust-vislab.github.io/introduction-to-docker-for-data-scientists/02-getting-started-with-binder/index.html) for a tutorial.
 - [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb#scrollTo=lSrWNr3MuFUS) A notebook style environment for running code not dissimilar to Binder, but with more GPU.
 - [Jupyter](https://peerherholz.github.io/workshop_weizmann/prerequisites/intro_jupyter.html) An interactive environment for running code.
-- [Phaser](https://phaser.io/learn) An open source framework for creating interactive games. Increasingly used to create 'gamified' behavioural tasks. See [Agnes Norbury's page](https://github.com/agnesnorbury) for some cool examples.
-- [Neurodesk](https://www.neurodesk.org/docs/overview/) A flexible, scalable and easy to use data analysis environment for reproducible neuroimaging. Essentially provides a VM with pre-loaded applications installed for neuroimaging analysis.
-- [Brainlife](https://brainlife.io/docs/) An online, community-based platform where users can publish code (Apps) and Data while integrating HPC and cloud-computing resources to run apps.
+- [Doxygen](https://www.doxygen.nl/) 'A documentation generator tool in software development. It automates the generation of documentation from source code comments, parsing information about classes, functions, and variables to produce output in formats like HTML and PDF.'
 
 ## Statistics
 ### General statistics knowledge
@@ -107,14 +126,14 @@ Getting into a field as complicated and challenging as cognitive neuroscience ca
 
 ## Philosophy of neuroscience
 What are the limitations of fMRI? What can/can't we infer about the brain using neuroimaging? What does it mean to observe statistically significant activity of the prefrontal cortex in response to a specific stimulus? Asking fundamental questions such as these are pivotal as neuroscientists to understand what our tools can and cannot be used for in our research.
-- [Tal Yarkoni's Essays](https://talyarkoni.org/writing/) Tal Yarkoni publishes essays/papers on a number of topics, including the use of statistics in neuroimaging/science.
+- [Tal Yarkoni's Essays](https://talyarkoni.org/writing/) Tal Yarkoni (Research Scientist @ X, the Moonshot Factory) publishes essays/papers on a number of topics, including the use of statistics in neuroimaging/science.
 
 ## Free web-courses
 - [INCF Training Space](https://training.incf.org/) A wide range of free courses covering range of topics including neuroscience and reproducibilty, curated by the International Neuroinformatics Coordinating Facility.
 - [Brainhack School](https://school.brainhackmtl.org/modules/) A list of training modules created by the University of Montreal as part of their Brainhack School. Modules cover introductions to bash, containers, high performance computing, as well as fMRI connectivity and parcellation.
 
 ## AI Tools
-Artificial intelligence is now a pivotal component of academic work, whether we like for it to be or not. Whilst AI tools such as GPT were initially not recommended to be used for literature searches and summaries, recent models trained on domain-specific data (i.e., research papers) are significantly more effective, and are not plagued by the previous limitations such as generating fake references.
+Artificial intelligence is now a pivotal component of academic work, whether we like for it to be or not. Whilst AI tools such as GPT were initially not recommended to be used for literature searches and summaries, recent models trained on domain-specific data (i.e., research papers) are significantly more effective, and are not plagued by the previous limitations such as generating fake references. Whether or not you decide to implement them in your own work is a personal decision, but here are some useful resources if you decide to.
 ### General search engines/chatbots
 - [ChatGPT](https://chat.openai.com/) Does this really need an introduction?
 - [Bard](https://bard.google.com/) Google's version of ChatGPT.
@@ -127,16 +146,33 @@ Artificial intelligence is now a pivotal component of academic work, whether we 
 - [Litmaps](https://app.litmaps.com/) Generate visual maps of connected papers.
 - [Connected Papers](https://www.connectedpapers.com/) Similar to Litmaps, another tool to generate visual diagrams of connected papers.
 
-## Repos
+## Accessing/sharing data
+Open research initiatives are promoting the free availability of code, along with raw behavioural and neuroimaging data. Here are some websites where you can both upload your own data and access the data of others.
+### Neuroimaging
 - [Neurovault](https://neurovault.org/) A public repository of unthresholded statistical maps, parcellations, and atlases of the brain.
 - [OpenNeuro](https://openneuro.org/) A public repository of freely available neuroimaging datasets.
-- [The Experiment Factory](https://www.expfactory.org/) An online repository for online behavioral experiments.
+- [NITRC-IR](https://www.nitrc.org/xnat/index.php) 'The NITRC Image Repository allows you to search for and freely download public datasets. It includes millions of dollars worth of DICOM and NIfTI images with normal and diagnoses such as child development disorders, Aspergers, Autism, ADHD, Parkinson’s and Schizophrenia'. 
+### General output data (code, slides, posters)
+- [GitHub](https://github.com/) No explanation needed, this is where you are right now!
+- [Zenodo](https://zenodo.org/) An open-access repository developed and maintained by CERN to facilitate the sharing, preservation, and citation of research outputs, including data, presentations and posters.
+- [Dryad](https://datadryad.org/stash) 'An open data publishing platform and a community committed to the open availability and routine re-use of all research data'.
+- [Collaborative Research in Computational Neuroscience](https://crcns.org/) An online data-hosting platform for experimental data sets testing computational models of the brain and new analysis methods. The data include physiological recordings from sensory and memory systems, as well as eye movement data.
+- [Figshare](https://plus.figshare.com/) Figshare is a multidisciplinary repository that supports a wide range of research outputs, including datasets, figures, images, posters, presentations, videos.
+### Other
+- [The Experiment Factory](https://www.expfactory.org/) An open source, modular infrastructure for the deployment of standardized behavioral experiments, surveys, and games ran by the Poldrack Lab. See the docs [here](https://expfactory.github.io/).
+
+## Forums 
+(Neuro)science is a team effort where people are always on hand to help. Online forums are a great source of answers for problems that people have faced in the past, as well as a place to ask for help in solving new ones.
+- [JISCMail](https://www.jiscmail.ac.uk/) Described as a set of email discussion lists for the UK Education and Research communities, there are literally hundreds of forums and discussion boards covering all aspects of academia. Most pertinent to neuroimaging are the [FSL](https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=fsl) and [SPM](https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=SPM) forums.
+- [Neurostars](https://neurostars.org/) A question and answer forum for neuroscience researchers, infrastructure providers and software developers, ran by the INCF.
+- [CONN Forum](https://www.nitrc.org/forum/forum.php?forum_id=1144) The forum for anything CONN-related, hosted on the NITRC website.
 
 ## Other
+Miscannelous tools that don't fit into any of the other categories.
 - [Neurosynth](https://neurosynth.org/) A platform for coordinate-based meta-analysis on neuroimaging data.
 - [BrainBox](https://brainbox.pasteur.fr/) A platform for real-time collaboration in neuroimaging allowing you to visualise, segment and annotate collaboratively any brain MRI dataset available online.
 - [Cognitive Atlas](https://www.cognitiveatlas.org/) 'A collaborative knowledge base characterizing the state of current thought in Cognitive Science'. It covers four main themes: concepts, tasks, disorders and theroies in neuroscience, which are linked together through formal definitions. Ran by Russ Poldrack, Stanford.
+- [Neurotorium Brain Atlas](https://neurotorium.org/tool/brain-atlas/) A 3-D interactive brain atlas which describes the function of different brain regions, with references.
 - [Brain Catalogue](https://braincatalogue.org/) An online catalogue of brains across many species
-
 
 
