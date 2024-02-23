@@ -44,14 +44,18 @@ There are far too many to list, and it doesn't bear mentioning software like [FS
 - [Brainlife](https://brainlife.io/docs/) An online, community-based platform where users can publish code (Apps) and Data while integrating HPC and cloud-computing resources to run apps.
 
 ## Behavioural experiments 
-WRITE INTRO SECTION
+Some platforms commonly used for the recruitment and deployment of behavioural experiments, both online and in person.
 ### Recruitment
-- 
-Qualtrics, Mturk, prolific
-Gorilla, 
-oTree, LIONESS, nodegame
+- [Amazon Mechanical Turk](https://www.mturk.com/) and [Prolific](https://www.prolific.com/) are two of the most popular services for recruiting online participants.
+### Creating/Hosting
+- [Qualtrics](https://www.qualtrics.com/uk/) A survey tool that makes it quick and easy to design surveys to be used in experiments.
+- [Gorilla](https://gorilla.sc/) and [lab.js](https://lab.js.org/) are popular platforms for building online experiments where no programming is required.
+- [jsPsych](https://www.jspsych.org/7.3/) A JavaScript framework for creating behavioral experiments that run in a web browser.
+- [JATOS](https://www.jatos.org/) Just Another Tool for Online Studies (JATOS) is a powerful, open source study hosting and data collection service which integrates with other experiment building and hosting tools.
+- [zTree](https://www.ztree.uzh.ch/en.html) A widely used software package for developing and carrying out economic experiments.
+- [oTree](https://www.otree.org/), [LIONESS](https://lioness-lab.org/) and [nodeGame](https://nodegame.org/) are three popular options for creating real-time interactive experiments.
 - [Phaser](https://phaser.io/learn) An open source framework for creating interactive games. Increasingly used to create 'gamified' behavioural tasks. See [Agnes Norbury's page](https://github.com/agnesnorbury) for some cool examples.
-- 
+
 
 ## Computational modeling/computational psychiatry
 ### Tutorials
@@ -173,6 +177,6 @@ Miscannelous tools that don't fit into any of the other categories.
 - [BrainBox](https://brainbox.pasteur.fr/) A platform for real-time collaboration in neuroimaging allowing you to visualise, segment and annotate collaboratively any brain MRI dataset available online.
 - [Cognitive Atlas](https://www.cognitiveatlas.org/) 'A collaborative knowledge base characterizing the state of current thought in Cognitive Science'. It covers four main themes: concepts, tasks, disorders and theroies in neuroscience, which are linked together through formal definitions. Ran by Russ Poldrack, Stanford.
 - [Neurotorium Brain Atlas](https://neurotorium.org/tool/brain-atlas/) A 3-D interactive brain atlas which describes the function of different brain regions, with references.
-- [Brain Catalogue](https://braincatalogue.org/) An online catalogue of brains across many species
-
+- [Brain Catalogue](https://braincatalogue.org/) An online catalogue of brains across many species.
+- [Allison Horst](https://allisonhorst.com/) Artwork for various R-related themes and concepts.
 
