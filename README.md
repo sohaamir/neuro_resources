@@ -82,7 +82,7 @@ There are loads and loads of online programming courses and resources, I have ch
 - [An introduction to R](https://intro2r.com/) An online interactive book detailing `R` for beginners, including: data manipulation, plotting with ggplot2, basic statistics, functions, markdown and reproducilbity with git/GitHub. Written by Alex Douglas, Deon Roos, Francesca Mancini, Ana Couto & David Lusseau.
 - [The R Graph Gallery](https://r-graph-gallery.com/index.html) Not necessarily a learning guide per se, the `R` Graph Gallery provides an extensive list of the many types of graphs you can make using `ggplot2` giving examples. Created by [Yan Holtz](https://www.yan-holtz.com/). Also see [this tutorial](https://cedricscherer.netlify.app/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/) by Cedric Scherer on how to make plots using `ggplot2` and [this post](https://waterdata.usgs.gov/blog/ggplot-jazz/) by the [Vizlab](https://labs.waterdata.usgs.gov/visualizations/index.html#/) at the U.S. Geological Survey for advanced ggplotting.
 - [Introduction to R 2021](https://biocorecrg.github.io/CRG_RIntroduction/) A basic introduction to R, covering data types, functions and plotting. Created by Sarah Bonnin.
-### `Python`
+### Python
 - [Michael Notter's Introduction to Python](https://miykael.github.io/nipype_tutorial/notebooks/introduction_`Python`.html) Uses an interactive notebook format.
 - [Lucas Snoek's Introduction to Python](https://lukas-snoek.com/introPy/solutions/week_1/0_introduction.html) Also uses an interactive `Jupyter` notebook format.
 - [The Python Graph Gallery](https://`Python`-graph-gallery.com/) The `Python` companion piece to Yan Holtz's `R` Graph Gallery.
