@@ -4,6 +4,8 @@ Simultaneously taking inspiration from others' lists and wanting to have a decid
 
 I aim to update it frequently, and will purposely leave out some resources covered by others which I have not used personally. I also will focus more on resources that are 'online-oriented' i.e., not articles or textbooks, although I will include guides written in the style of an 'online book' as they are interactive and often are the best method of learning. Feel free to star/fork this repo or to suggest your own resources for me to add!
 
+You can access this list as a GitHub Page [here](https://sohaamir.github.io/neuro_resources/)
+
 ## Existing lists of resources
 Here are some current 'meta-lists' which already cover a lot of resources, if you don't see a particularly obvious resource in my list, odds are that it is in one of these: 
 - [Methods in Neuro](https://github.com/smweis/methods_in_neuro) Steven Weisberg's GitHub extensive list of resources covering the physics of MRI/fMRI, computational/programming, tools for the analysis of MRI/fMRI data, and online datasets, as part of his 'Methods in Neuroimaging' course at the University of Florida.
