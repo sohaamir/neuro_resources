@@ -1,4 +1,4 @@
-# Useful resources for neuroscientists 🧠 📚
+# Useful learning resources for neuroscientists 🧠 📚
 
 Simultaneously taking inspiration from others' lists and wanting to have a decidicated space for my own without having to save dozens of tabs, I have decided to create my own (non-exhaustive) list of links and pages for neuroscientists covering conceptual subject knowledge, statistics, software, programming, good research practices and online repositories. The list is geared more towards cognitive neuroscience and experimental psychology, and in particular those using fMRI (as this is my own subject area), but regardless of your field within neuroscience/psychology and beyond there should be some useful resources 😊 
 
@@ -104,12 +104,14 @@ There are loads and loads of online programming courses and resources, I have ch
 - [The Unix Shell](https://swcarpentry.github.io/shell-novice/) Software Carpentries workshop on Unix.
 - [Ubuntu Linux Guide](https://www.nutanix.dev/lab_content/dev-setup-lab/contents/master_linux.html) Nutanix's guide to Linux on Ubuntu.
 
-## Tool for writing, organising ad teaching through code
+## Tool for writing, organising and teaching through code
 - [Quarto](https://quarto.org/) A visually appealing framework for data science, Quarto documents are fully reproducible and support dozens of output formats, like PDFs, Word files, presentations, and more.
 - [Binder](https://mybinder.readthedocs.io/en/latest/introduction.html) 'The Binder project offers an easy place to share computing environments to everyone. by allowing users to specify custom environments and share them with a single link'. See this [link](https://kaust-vislab.github.io/introduction-to-docker-for-data-scientists/02-getting-started-with-binder/index.html) for a tutorial.
 - [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb#scrollTo=lSrWNr3MuFUS) A notebook style environment for running code not dissimilar to Binder, but with more GPU.
 - [Jupyter](https://peerherholz.github.io/workshop_weizmann/prerequisites/intro_jupyter.html) An interactive environment for running code.
-- [Doxygen](https://www.doxygen.nl/) 'A documentation generator tool in software development. It automates the generation of documentation from source code comments, parsing information about classes, functions, and variables to produce output in formats like HTML and PDF.'
+- [Doxygen](https://www.doxygen.nl/) 'A documentation generator tool in software development. It automates the generation of documentation from source code comments, parsing information about classes, functions, and variables to produce output in formats like HTML and PDF.' Also see [roxygen2](https://cran.r-project.org/web/packages/roxygen2/vignettes/roxygen2.html) an R package that allows you to write in-source documentation for your package functions and objects.
+- [nbviewer](https://nbviewer.org/) An online Jupyter notebook viewer and renderer.
+- [Bookdown](https://bookdown.org/) Publish online book-style documents (HTML, PDF, ePub, and Kindle books) with R Markdown.
 
 ## Statistics
 ### General statistics knowledge
@@ -149,6 +151,9 @@ Artificial intelligence is now a pivotal component of academic work, whether we 
 ### General search engines/chatbots
 - [ChatGPT](https://chat.openai.com/) Does this really need an introduction?
 - [Bard](https://bard.google.com/) Google's version of ChatGPT.
+### Programming assistants 
+- [GitHub CoPilot](https://github.com/features/copilot) An interactive coding assistant developed by GitHub that can be implemented in a multitude of environments and IDEs. Costs $10 per month/$100 per year, but free for GitHub Student Developers.
+- [Codeium](https://codeium.com/) A free-alternative to GitHub CoPilot.
 ### Research specific tools (references, chatbots, literature summaries)
 - [SciSpace](https://typeset.io/) A great chatbot which can summarise literature/papers in response to a query, and identify simiarly-themed articles. The ChatGPT of research, highly recommended.
 - [Research Rabbit](https://researchrabbitapp.com/) A useful tool to generate similarly-themed papers to a reference.
@@ -168,6 +173,7 @@ Open research initiatives are promoting the free availability of code, along wit
 - [GitHub](https://github.com/) No explanation needed, this is where you are right now!
 - [Zenodo](https://zenodo.org/) An open-access repository developed and maintained by CERN to facilitate the sharing, preservation, and citation of research outputs, including data, presentations and posters.
 - [Dryad](https://datadryad.org/stash) 'An open data publishing platform and a community committed to the open availability and routine re-use of all research data'.
+- [Code Ocean](https://site.codeocean.com/) A platform where researchers can provision, scale, collaborate, and reproduce computational scientific research by uploading reproducible workstations called 'capsules'.
 - [Collaborative Research in Computational Neuroscience](https://crcns.org/) An online data-hosting platform for experimental data sets testing computational models of the brain and new analysis methods. The data include physiological recordings from sensory and memory systems, as well as eye movement data.
 - [Figshare](https://plus.figshare.com/) Figshare is a multidisciplinary repository that supports a wide range of research outputs, including datasets, figures, images, posters, presentations, videos.
 ### Other
