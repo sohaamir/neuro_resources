@@ -104,14 +104,19 @@ There are loads and loads of online programming courses and resources, I have ch
 - [The Unix Shell](https://swcarpentry.github.io/shell-novice/) Software Carpentries workshop on Unix.
 - [Ubuntu Linux Guide](https://www.nutanix.dev/lab_content/dev-setup-lab/contents/master_linux.html) Nutanix's guide to Linux on Ubuntu.
 
-## Tool for writing, organising and teaching through code
+## Tools for writing, organising and teaching through code
+### Writing and hosting code
 - [Quarto](https://quarto.org/) A visually appealing framework for data science, Quarto documents are fully reproducible and support dozens of output formats, like PDFs, Word files, presentations, and more.
-- [Binder](https://mybinder.readthedocs.io/en/latest/introduction.html) 'The Binder project offers an easy place to share computing environments to everyone. by allowing users to specify custom environments and share them with a single link'. See this [link](https://kaust-vislab.github.io/introduction-to-docker-for-data-scientists/02-getting-started-with-binder/index.html) for a tutorial.
-- [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb#scrollTo=lSrWNr3MuFUS) A notebook style environment for running code not dissimilar to Binder, but with more GPU.
-- [Jupyter](https://peerherholz.github.io/workshop_weizmann/prerequisites/intro_jupyter.html) An interactive environment for running code.
 - [Doxygen](https://www.doxygen.nl/) 'A documentation generator tool in software development. It automates the generation of documentation from source code comments, parsing information about classes, functions, and variables to produce output in formats like HTML and PDF.' Also see [roxygen2](https://cran.r-project.org/web/packages/roxygen2/vignettes/roxygen2.html) an R package that allows you to write in-source documentation for your package functions and objects.
-- [nbviewer](https://nbviewer.org/) An online Jupyter notebook viewer and renderer.
 - [Bookdown](https://bookdown.org/) Publish online book-style documents (HTML, PDF, ePub, and Kindle books) with R Markdown.
+### Coding environments
+- [Jupyter](https://peerherholz.github.io/workshop_weizmann/prerequisites/intro_jupyter.html) Jupyter Notebooks are server-client applications that allows editing and running notebook documents via a web browser.
+- [Binder](https://mybinder.readthedocs.io/en/latest/introduction.html) 'The Binder project offers an easy place to share computing environments to everyone. by allowing users to specify custom environments and share them with a single link'. See this [link](https://kaust-vislab.github.io/introduction-to-docker-for-data-scientists/02-getting-started-with-binder/index.html) for a tutorial.
+- [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb#scrollTo=lSrWNr3MuFUS) A notebook style environment for running code not dissimilar to a combination of Binder and Jupyter Notebooks, but with more GPU.
+- [nbviewer](https://nbviewer.org/) An online Jupyter notebook viewer and renderer.
+- [Stackblitz](https://stackblitz.com/) An online interactive IDE which boots entire development environments in milliseconds, securely within your browser tab.
+- [Codeshare](https://codeshare.io/) Share and work with code editors online with others in real-time.
+- [Codepen](https://codepen.io) An interactive three-tiered window where users can create frontend projects using HTML, CSS, and JavaScript in real-time.
 
 ## Statistics
 ### General statistics knowledge
