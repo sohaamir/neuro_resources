@@ -72,6 +72,8 @@ Some platforms commonly used for the recruitment and deployment of behavioural e
 - [London-New York Computational Psychiatry course](https://www.cpcourse.org/) CPC++ is 'a hybrid course/conference format to equip the next generation of scientists and clinicians who study mental disorders with the tools to understand, to build, to analyse and to critically evaluate computational models of mental function and dysfunction'.
 - [Transcontinental Computational Psychiatry Workgroup (TCPW)](https://www.quentinhuys.com/tcpw/) A monthly speaker series featuring leading academics in the field of computational psychiatry. Past videos of speakers are available on the website. Organised by Quentin Huys (UCL), Martin Paulus (Laureate Institute) and Michael Browning (Oxford).
 - [COSMOS](https://cosmos-konstanz.github.io/) A yearly summer school, the Computational Summer school on Modeling Social and collective behavior (COSMOS) 'is designed to provide attendees from diverse fields (e.g., psychology, economics, neuroscience, biology, computer science, etc…) and career stages (master, PhD, postdoc, and junior PI) with the computational skills required to tackle emerging challenges in understanding social learning and collective behaviour'. Materials for past schools are made available. Organised by Charley Wu (Tubingen) and Wataru Toyokawa (Konstanz/RIKEN).
+- [Computational Models of Human Social Behavior and Neuroscience](https://shawnrhoads.github.io/gu-psyc-347/index.html) An introductory course to the computational modeling of social behaviour for those with no prior programming experience needed. The syllabus covers a broad set of social psychological abilities including (1) learning from and for others, (2) learning about others, and (3) social influence on decision-making and mental states. Created by Shawn Rhoads.
+- [Summer Program in Computational Psychiatry Education](https://center-for-computational-psychiatry.github.io/course_spice/) A collection of course materials and resources designed for high school and undergraduate students interested in exploring the field of computational psychiatry and neuroscience. Created by Shawn Rhoads and Sarah Banker at the Center for Computational Psychiatry in the Icahn School of Medicine at Mount Sinai.
 
 ## Programming
 There are loads and loads of online programming courses and resources, I have chosen to list interactive, free guides that focus on learning basic skills.
@@ -137,6 +139,11 @@ There are loads and loads of online programming courses and resources, I have ch
 
 ## Research guidance, planning and open research practice
 Getting into a field as complicated and challenging as cognitive neuroscience can be overwhelming. These resources are a great guide to organising one's research.
+### Journals/sites
+- [Open Science Framework](https://osf.io/) The Open Science Framework (OSF) is a tool that promotes open, centralized workflows by enabling capture of different aspects and products of the research lifecycle, including developing a research idea, designing a study, storing and analyzing collected data, and writing and publishing reports or papers.
+- [The Journal of Open Source Education](https://jose.theoj.org/) The Journal of Open Source Education is an educator friendly journal for publishing open-source educational materials and software.
+
+### Guides
 - [The Turing Way](https://the-turing-way.netlify.app/index.html) - Must-read detailed guide on how to conduct research!
 - [The Princeton Handbook for Reproducible Neuroimaging](https://brainhack-princeton.github.io/handbook/index.html) - A great guide for how to conduct reproducible neuroimaging research from the Princeton Neuroscience Institute
 - [ARIADNE](https://igor-biodgps.github.io/ARIADNE/intro.html) A guidebook aimed primarily for early career researchers in the field of life sciences, detailing the process of conducting a transparent and reproducible research project from start to finish.
@@ -145,6 +152,7 @@ Getting into a field as complicated and challenging as cognitive neuroscience ca
 - [The Good Research Code Handbook](https://goodresearch.dev/index.html) A handbook for organising code with an emphasis on project management. Written by [Patrick Mineault](https://xcorr.net/about/).
 - [Friends Don't Make Friends Make Bad Graphs](https://github.com/cxli233/FriendsDontLetFriends) A self-titled 'opinionated essay about good and bad practices in data visualization' with examples demonstrated through R plots. Created by Chenxin Li, University of Georgia.
 - [Executable Jupyter Book Template](https://github.com/shawnrhoads/executable-book-template/) Shawn Rhoad's template to host code and visualizations for research projects.
+- [ManyBabies](https://manybabies.org/events/) ManyBabies is 'a collaborative project for replication and best practices in developmental psychology research. Our goal is to bring researchers together to address difficult outstanding theoretical and methodological questions about the nature of early development and how it is studied.' Their events page has useful practical talks on best reproducible practices.
 
 ## Philosophy of neuroscience
 What are the limitations of fMRI? What can/can't we infer about the brain using neuroimaging? What does it mean to observe statistically significant activity of the prefrontal cortex in response to a specific stimulus? Asking fundamental questions such as these are pivotal as neuroscientists to understand what our tools can and cannot be used for in our research.
