@@ -111,6 +111,7 @@ There are loads and loads of online programming courses and resources, I have ch
 - [Quarto](https://quarto.org/) A visually appealing framework for data science, Quarto documents are fully reproducible and support dozens of output formats, like PDFs, Word files, presentations, and more.
 - [Doxygen](https://www.doxygen.nl/) 'A documentation generator tool in software development. It automates the generation of documentation from source code comments, parsing information about classes, functions, and variables to produce output in formats like HTML and PDF.' Also see [roxygen2](https://cran.r-project.org/web/packages/roxygen2/vignettes/roxygen2.html) an R package that allows you to write in-source documentation for your package functions and objects.
 - [Bookdown](https://bookdown.org/) Publish online book-style documents (HTML, PDF, ePub, and Kindle books) with R Markdown.
+- [pkgdown](https://pkgdown.r-lib.org/) pkgdown is an R package designed to make it quick and easy to build a website for R packages. 
 - [Sphinx](https://www.sphinx-doc.org/en/master/) Sphinx is a powerful documentation generator built in Python that has many great features for writing technical documentation.
 - [Jupyter Book](https://jupyterbook.org/en/stable/intro.html) Build beautiful, publication-quality books and documents from computational content using Jupyter.
 ### Coding environments
