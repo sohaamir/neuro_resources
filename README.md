@@ -15,7 +15,7 @@ Here are some current 'meta-lists' which already cover a lot of resources, if yo
 - [Awesome statistics](https://github.com/erikgahner/awesome-statistics) This list covers the different aspects of statistics, including probability, causality, hypothesis testing, statistical tests (correlation, regression, Bayesian, Meta-analysis, machine learning), data visulatization and software. In total there are 279 links in the GitHub repo, but the attached dataset in the repository has 1838!! Created by Erik Gahner Lahsen, who also created [Awesome ggplot2](https://github.com/erikgahner/awesome-ggplot2), a similar collection of links for learning about `ggplot2`.
 
 ## Neuroimaging
-### Conceptual understanding
+## Conceptual understanding
 Struggling to grasp the fundamentals of MRI/fMRI? Want to quickly refresh your mind on the physiological basis of the BOLD signal? Well, these resources are for you!
 - [Principles of fMRI](https://www.youtube.com/@principlesoffmri6920) The OG YouTube series for understanding the conceptual basis of MRI/fMRI. Created by Martin Lindquist and Tor Wager of Dartmouth College.
 - [Neuroimaging Research Methods](https://www.youtube.com/@neuroimagingresearchmethods) Another YouTube channel for learning about MRI/fMRI including research methods. Created by Rasmus Birn, University of Wisconsin-Madison.
@@ -24,8 +24,9 @@ Struggling to grasp the fundamentals of MRI/fMRI? Want to quickly refresh your m
 - [fMRI Bootcamp](https://cbmm.mit.edu/fmri-bootcamp) A lecture series on fMRI, both conceptual and methodological by Rebecca Saxe, MIT.
 - [MIT 9.13 The Human Brain, Spring 2019](https://www.youtube.com/playlist?list=PLUl4u3cNGP60IKRN_pFptIBxeiMc0MCJP) A course which 'surveys the core perceptual and cognitive abilities of the human mind and explores how they are implemented in the brain'. Delivered by Nancy Kanwisher, MIT.
 
-### Practical application
+## Practical application
 Time to put that knowledge into action. These guides exclusively cover MRI/fMRI analysis as I don't use other imaging modalities such as EEG/MEG, fNIRS or TMS. I highly recommend reading through the official documentation released for the software (e.g., FSL, SPM) as well, which I have left out purposely. [This paper](https://applications.emro.who.int/imemrf/Basic_Clin_Neurosci/Basic_Clin_Neurosci_2012_3_5_71_83.pdf) provides a good overview of neuroimaging tools commonly used.
+### Analysis of fMRI data
 - [Introduction to Working with MRI Data in Python](https://carpentries-incubator.github.io/SDC-BIDS-IntroMRI/index.html) A Software Carpentries course covering MRI file types, organisational formats (e.g., BIDS) and working with open datasets.
 - [Andy's Brain Book](https://andysbrainbook.readthedocs.io/en/latest/) The OG of neuroimaging tutorials. I don't know many trainee neuroimagers who hasn't used Andy's amazing guides. Highly recommended to check out his [YouTube channel](https://www.youtube.com/@AndrewJahn) as well. Created by Andrew Jahn, University of Michigan.
 - [NI-edu](https://lukas-snoek.com/NI-edu/index.html) A website covering two courses, “fMRI-introduction” (basic concepts and methodology of functional MRI (fMRI) research) and “fMRI-pattern-analysis” (machine-learning based ‘decoding’ and representational similarity analysis (RSA)), which are in a notebook format. Created by Lucas Snoek, University of Amsterdam.
@@ -36,6 +37,10 @@ Time to put that knowledge into action. These guides exclusively cover MRI/fMRI 
 - [NEURO Python and GLM](https://github.com/N-HEDGER/NEURO_Python) An interactive guide to using Python for fMRI data analysis, as well as a visual demonstration of concepts in neuroimaging such as proprcessing and the General Linear Model (GLM). The more basic overview of FSL/FEAT and GLM stuff is [here](https://github.com/N-HEDGER/training-fens/tree/main/UoReading). Materials by Nick Hedger, University of Reading.
 - [BrainIAK](https://brainiak.org/tutorials/) Tutorials for more advanced fMRI analysis including machine learning and real-time fMRI.
 - [Explorations of fMRI methods and theory](https://github.com/huffman-spatial-cognition-lab/exploration_of_fMRI_methods_and_theory) A course containing Python notebooks and instructions for running explorations of activation analysis and multivariate pattern analysis (MVPA) to demonstrate the interplay between fMRI methods and theory. Created for an undergraduate cognitive neuroscience course at Colby College by Derek Huffman. See the accompanying preprint [here](https://osf.io/preprints/psyarxiv/8kvfu).
+### Meta-analysis of fMRI data
+- [NiMARE](https://nimare.readthedocs.io/en/stable/index.html) NiMARE is a Python package for performing meta-analyses, and derivative analyses using meta-analytic data, of the neuroimaging literature, providing a standard syntax for performing a wide range of analyses and for interacting with databases of coordinates and images from fMRI studies.
+- [SDM Project](https://www.sdmproject.com/) Seed-based d Mapping (formerly "Signed Differential Mapping") is a statistical technique for meta-analyzing studies on differences in brain activity or structure which used neuroimaging techniques such as fMRI, VBM, DTI or PET.
+- [Neurosynth Compose](https://compose.neurosynth.org/) A free and open platform for neuroimaging meta-analysis where you can perform custom neuroimaging meta-analyses entirely in the browser, and quickly get results in the cloud using automated analysis pipelines.
 
 ### Neuroimaging software/tools
 There are far too many to list, and it doesn't bear mentioning software like [FSL](), [SPM](), [AFNI](), [Freesurfer](), [mricron](), and many others that most people will already know about and use. Instead here are some I think are most important for fMRI research that people may not know about. Many of these are collated on the software section of the NITRC (NeuroImaging Tools and Resources Collaboratory) [website](https://www.nitrc.org/top/toplist.php?type=downloads). 
@@ -57,7 +62,6 @@ Some platforms commonly used for the recruitment and deployment of behavioural e
 - [zTree](https://www.ztree.uzh.ch/en.html) A widely used software package for developing and carrying out economic experiments.
 - [oTree](https://www.otree.org/), [LIONESS](https://lioness-lab.org/) and [nodeGame](https://nodegame.org/) are three popular options for creating real-time interactive experiments.
 - [Phaser](https://phaser.io/learn) An open source framework for creating interactive games. Increasingly used to create 'gamified' behavioural tasks. See [Agnes Norbury's page](https://github.com/agnesnorbury) for some cool examples.
-
 
 ## Computational modeling/computational psychiatry
 ### Tutorials
@@ -185,7 +189,8 @@ Open research initiatives are promoting the free availability of code, along wit
 ### Neuroimaging
 - [Neurovault](https://neurovault.org/) A public repository of unthresholded statistical maps, parcellations, and atlases of the brain.
 - [OpenNeuro](https://openneuro.org/) A public repository of freely available neuroimaging datasets.
-- [NITRC-IR](https://www.nitrc.org/xnat/index.php) 'The NITRC Image Repository allows you to search for and freely download public datasets. It includes millions of dollars worth of DICOM and NIfTI images with normal and diagnoses such as child development disorders, Aspergers, Autism, ADHD, Parkinson’s and Schizophrenia'. 
+- [NITRC-IR](https://www.nitrc.org/xnat/index.php) 'The NITRC Image Repository allows you to search for and freely download public datasets. It includes millions of dollars worth of DICOM and NIfTI images with normal and diagnoses such as child development disorders, Aspergers, Autism, ADHD, Parkinson’s and Schizophrenia'.
+- [BrainMap](https://www.brainmap.org/) BrainMap is a database of published task and structural neuroimaging experiments with coordinate-based results (x,y,z) in Talairach or MNI space.
 ### General output data (code, slides, posters)
 - [GitHub](https://github.com/) No explanation needed, this is where you are right now!
 - [Zenodo](https://zenodo.org/) An open-access repository developed and maintained by CERN to facilitate the sharing, preservation, and citation of research outputs, including data, presentations and posters.
