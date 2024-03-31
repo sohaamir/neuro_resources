@@ -13,6 +13,8 @@ Here are some current 'meta-lists' which already cover a lot of resources, if yo
 - [On-line neuroimaging resources](https://github.com/Remi-Gau/online_neuroimaging_resources/blob/master/Main.md) A farily comprehensive list of 'softwares, databases, tutorials, blogs and other resources relevant to learn about neuroimaging or to help perform neuroimaging analysis'. Curated by Remi Gau, McGill University.
 - [Dartbrains](https://dartbrains.org/content/intro.html) A notebook style introduction to neuroimaging in Python. The materials cover how scanner generates data, how psychological states can be probed in the scanner, and how this data can be processed and analyzed. Created by Luke Chang, Dartmouth College.
 - [Awesome statistics](https://github.com/erikgahner/awesome-statistics) This list covers the different aspects of statistics, including probability, causality, hypothesis testing, statistical tests (correlation, regression, Bayesian, Meta-analysis, machine learning), data visulatization and software. In total there are 279 links in the GitHub repo, but the attached dataset in the repository has 1838!! Created by Erik Gahner Lahsen, who also created [Awesome ggplot2](https://github.com/erikgahner/awesome-ggplot2), a similar collection of links for learning about `ggplot2`.
+- [Awesome Magnetic Resonance Imaging (MRI)](https://github.com/dangom/awesome-mri) 'A curated list of delightful Magnetic Resonance (MR) courses, books, lectures, papers, blogs and free resources.' Created by Daniel Gomez, Harvard/MIT.
+- [Awesome Neuroscience](https://github.com/analyticalmonk/awesome-neuroscience) 'A curated list of awesome neuroscience libraries, software and any content related to the domain.'  Created by Akash Tandon.
 
 ## Neuroimaging
 ## Conceptual understanding
@@ -64,13 +66,14 @@ Some platforms commonly used for the recruitment and deployment of behavioural e
 - [Phaser](https://phaser.io/learn) An open source framework for creating interactive games. Increasingly used to create 'gamified' behavioural tasks. See [Agnes Norbury's page](https://github.com/agnesnorbury) for some cool examples.
 
 ## Computational modeling/computational psychiatry
-### Tutorials
+### Tutorials/Online Books
 - [The Deep Reinforcement Learning Course on Hugging Face](https://huggingface.co/learn/deep-rl-course/unit0/introduction) A practical, hands-on course in Deep Reinforcement Learning, from beginner to expert level.
 - [Behavioural Modeling](https://hannekedenouden.ruhosting.nl/RLtutorial/Instructions.html) A two-part course covering how to model cognitive behaviour using MATLAB. The first part on standard reinforcement learning models is written by Hanneke den Ouden (Donders Institute), with the second section on Bayesian learning models written by Jill O'Reilly (Oxford University).
 - [Neuromatch Academy Computational Neuroscience Course](https://compneuro.neuromatch.io/tutorials/intro.html) A wide-spanning curriculum that covers most areas of computational neuroscience. Some material may be more relevant than others, e.g., Modeling, Reinforcement Learning.
 - [hbayesDM](https://ccs-lab.github.io/hBayesDM/articles/getting_started.html) Documentation and guides for the hBayesDM package in R, a 'user-friendly package that offers hierarchical Bayesian analysis of various computational models on an array of decision-making tasks'. By Woo-Young Ahn (Seoul), Nathaniel Haines (Ohio State) and Lei Zhang (Birmingham).
 - [Bayesian Models of Learning and Integration of Neuroimaging Data](https://training.incf.org/lesson/modelling-cognition-using-bayesian-inference) A four-session course teaching how Bayesian statistics may be used to build cognitive models of processes like learning or perception and theoretical and practical instruction on dynamic causal modeling as applied to fMRI and EEG data. Hosted on the INCF, ran by the Krembil Institute for Neuroinformatics.
 - [Bayesian Statistics and Bayesian Cognitive Modeling, Part 2](https://github.com/lei-zhang/BayesCog_Part2) The second part (two-days) of a five-day workshop covering Bayesian statistics and cognitive modeling. This second part focuses on more complex Bayesian models including hierarchical models, as well as Bayesian regression. Created by Lei Zhang, University of Birmingham.
+- [Computational Cognitive Neuroscience, Fourth Edition](https://github.com/CompCogNeuro/ed4) A freely available textbook, providing 'a complete, self-contained introduction to the field of Computational Cognitive Neuroscience, where computer models of the brain are used to understand a wide range of cognitive functions, including perception, attention, motor control, learning, memory, language, and executive function.' By Randall C. O’Reilly, Yuko Munakata, Michael J. Frank and Thomas E. Hazy.
 ### Workshops/Groups/Summer Schools
 - [Computational Psychiatry Course Zurich](https://www.translationalneuromodeling.org/cpcourse/) A leading 6-day course organized by the Translational Neuromodeling Unit (TNU), University of Zurich & ETH Zurich designed to provide MSc and PhD students, scientists clinicians and anyone interested in Computational Psychiatry with the necessary toolkit to master challenges in computational psychiatry research. Whilst the workshop is delivered yearly in person, resources for past courses are made available.
 - [London-New York Computational Psychiatry course](https://www.cpcourse.org/) CPC++ is 'a hybrid course/conference format to equip the next generation of scientists and clinicians who study mental disorders with the tools to understand, to build, to analyse and to critically evaluate computational models of mental function and dysfunction'.
@@ -126,6 +129,7 @@ There are loads and loads of online programming courses and resources, I have ch
 - [Stackblitz](https://stackblitz.com/) An online interactive IDE which boots entire development environments in milliseconds, securely within your browser tab.
 - [Codeshare](https://codeshare.io/) Share and work with code editors online with others in real-time.
 - [Codepen](https://codepen.io) An interactive three-tiered window where users can create frontend projects using HTML, CSS, and JavaScript in real-time.
+- [Replit](https://replit.com/) Replit is an online integrated development environment (IDE) that enables users to write, run, and collaborate on code from their browsers.
 
 ## Statistics
 ### General statistics knowledge
