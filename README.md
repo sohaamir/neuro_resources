@@ -175,9 +175,13 @@ What are the limitations of fMRI? What can/can't we infer about the brain using 
 
 ## AI Tools
 Artificial intelligence is now a pivotal component of academic work, whether we like for it to be or not. Whilst AI tools such as GPT were initially not recommended to be used for literature searches and summaries, recent models trained on domain-specific data (i.e., research papers) are significantly more effective, and are not plagued by the previous limitations such as generating fake references. Whether or not you decide to implement them in your own work is a personal decision, but here are some useful resources if you decide to.
+### Existing lists/resources 
+- [There's an AI For That](https://theresanaiforthat.com/) A website compiling 13,114 AIs for 16,561 tasks and 4,847 jobs.
+- [Replicate](https://replicate.com/) A community playground for testing LLMs, particularly for image/video generation.
 ### General search engines/chatbots
 - [ChatGPT](https://chat.openai.com/) Does this really need an introduction?
-- [Bard](https://bard.google.com/) Google's version of ChatGPT.
+- [Gemini](https://gemini.google.com/app) Google's version of ChatGPT.
+- [Claude](https://claude.ai/) Anthropic's answer to ChatGPT. More effective than GPT-4 and Gemini in my experience.
 ### Programming assistants 
 - [GitHub CoPilot](https://github.com/features/copilot) An interactive coding assistant developed by GitHub that can be implemented in a multitude of environments and IDEs. Costs $10 per month/$100 per year, but free for GitHub Student Developers.
 - [Codeium](https://codeium.com/) A free-alternative to GitHub CoPilot.
