@@ -1,10 +1,10 @@
 # Useful learning resources for neuroscientists 🧠 📚
 
+[![GitHub Page](https://img.shields.io/badge/GitHub-Page-blue?style=flat&logo=github)](https://sohaamir.github.io/neuro_resources/)
+
 Simultaneously taking inspiration from others' lists and wanting to have a decidicated space for my own without having to save dozens of tabs, I have decided to create my own (non-exhaustive) list of links and pages for neuroscientists covering conceptual subject knowledge, statistics, software, programming, good research practices and online repositories. The list is geared more towards cognitive neuroscience and experimental psychology, and in particular those using fMRI (as this is my own subject area), but regardless of your field within neuroscience/psychology and beyond there should be some useful resources 😊 
 
 I aim to update it frequently, and will purposely leave out some resources covered by others which I have not used personally. I also will focus more on resources that are 'online-oriented' i.e., not articles or textbooks, although I will include guides written in the style of an 'online book' as they are interactive and often are the best method of learning. Feel free to star/fork this repo or to suggest your own resources for me to add!
-
-You can access this list as a GitHub Page [here](https://sohaamir.github.io/neuro_resources/).
 
 ## Existing lists of resources
 Here are some current 'meta-lists' which already cover a lot of resources, if you don't see a particularly obvious resource in my list, odds are that it is in one of these: 
