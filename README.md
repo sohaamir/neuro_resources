@@ -16,6 +16,7 @@ Here are some current 'meta-lists' which already cover a lot of resources, if yo
 - [Awesome Magnetic Resonance Imaging (MRI)](https://github.com/dangom/awesome-mri) 'A curated list of delightful Magnetic Resonance (MR) courses, books, lectures, papers, blogs and free resources.' Created by Daniel Gomez, Harvard/MIT.
 - [Awesome Neuroscience](https://github.com/analyticalmonk/awesome-neuroscience) 'A curated list of awesome neuroscience libraries, software and any content related to the domain.'  Created by Akash Tandon.
 - [Computational Psychiatry Starter Pack](https://airtable.com/appzTdqfg1F9FtqUs/shrQO3g80rQwJnarY/tblRhb3w0p96pNsAL/viwBP2ZBRqZhpgl4L?blocks=hide) A list of resources for ECRs interested in delving into computational psychiatry. Created by Aleya Marzuki (Tubingen) and Tsen Vei Lim (Cambridge), to accompany their paper: Bridging minds and policies: supporting early career researchers in translating computational psychiatry research, which can be found [here](https://www.nature.com/articles/s41386-024-01834-1).
+- [Computational Modeling Resources](https://docs.google.com/document/d/1tDbPshnQsbWnuHWbCOj4OzY6yPrD4TZ4fI1W05JzUCw/edit) A Google Doc for resources in Computational Modeling by Caroline Charpentier (Maryland).
 
 ## Neuroimaging
 ## Conceptual understanding
