@@ -1,4 +1,4 @@
-# Useful learning resources for neuroscientists 🧠 📚
+# Useful learning resources for cognitive neuroscientists 🧠 📚
 
 [![GitHub Page](https://img.shields.io/badge/GitHub-Page-blue?style=flat&logo=github)](https://sohaamir.github.io/neuro_resources/)
 
