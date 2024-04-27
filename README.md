@@ -112,6 +112,7 @@ There are loads and loads of online programming courses and resources, I have ch
 - [Bayesian Inference with Stan](https://nicholasrjenkins.science/tutorials/bayesian-inference-with-stan/rstan/) A tutorial on how to use `stan` to perform Bayesian inference, covering stan syntax and how to program linear and binary outcome models. Written by Nick Jenkins, General Motors.
 ### git
 - [Version Control with Git](https://swcarpentry.github.io/git-novice/) Software Carpentries workshop on `git`, see the University of Birmingham's version [here](https://bham-carpentries.github.io/git-novice/).
+- [Git and GitLab Tutorial](https://julia-pfarr.github.io/git-gitlab_tutorial/) An introductory tutorial on `git` and `GitLab` made for researchers in psychology or neurosciences with little to no background in software development or no other computational expertise. Created by Julia-Katharina Pfarr, Philipps-Universität Marburg.
 - [Learn Git Branching](https://learngitbranching.js.org/) A really run and 'gamified' way of learning `git` branching created by Peter Cottle.
 ### Unix/Linux
 - [The Unix Shell](https://swcarpentry.github.io/shell-novice/) Software Carpentries workshop on Unix.
@@ -125,6 +126,7 @@ There are loads and loads of online programming courses and resources, I have ch
 - [pkgdown](https://pkgdown.r-lib.org/) pkgdown is an R package designed to make it quick and easy to build a website for R packages. 
 - [Sphinx](https://www.sphinx-doc.org/en/master/) Sphinx is a powerful documentation generator built in Python that has many great features for writing technical documentation.
 - [Jupyter Book](https://jupyterbook.org/en/stable/intro.html) Build beautiful, publication-quality books and documents from computational content using Jupyter.
+- [MkDocs](https://www.mkdocs.org/) 'MkDocs is a fast, simple and downright gorgeous static site generator that's geared towards building project documentation. Documentation source files are written in Markdown, and configured with a single YAML configuration file.' Also see [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/).
 ### Coding environments
 - [Jupyter](https://peerherholz.github.io/workshop_weizmann/prerequisites/intro_jupyter.html) Jupyter Notebooks are server-client applications that allows editing and running notebook documents via a web browser.
 - [Binder](https://mybinder.readthedocs.io/en/latest/introduction.html) 'The Binder project offers an easy place to share computing environments to everyone. by allowing users to specify custom environments and share them with a single link'. See this [link](https://kaust-vislab.github.io/introduction-to-docker-for-data-scientists/02-getting-started-with-binder/index.html) for a tutorial.
@@ -156,7 +158,6 @@ Getting into a field as complicated and challenging as cognitive neuroscience ca
 ### Journals/sites
 - [Open Science Framework](https://osf.io/) The Open Science Framework (OSF) is a tool that promotes open, centralized workflows by enabling capture of different aspects and products of the research lifecycle, including developing a research idea, designing a study, storing and analyzing collected data, and writing and publishing reports or papers.
 - [The Journal of Open Source Education](https://jose.theoj.org/) The Journal of Open Source Education is an educator friendly journal for publishing open-source educational materials and software.
-
 ### Guides
 - Useful papers in the field include: [Open and reproducible neuroimaging: From study inception to publication](https://www.sciencedirect.com/science/article/pii/S1053811922007388#sec0014) (Niso et al., 2022), [A Practical Guide for Improving Transparency and Reproducibility in Neuroimaging Research](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002506) (Gorgolewski & Poldrack, 2016), [Computational and Informatic Advances for Reproducible Data Analysis in Neuroimaging](https://www.annualreviews.org/content/journals/10.1146/annurev-biodatasci-072018-021237) (Poldrack, Gorgolewski & Varoquaux, 2019) and [Everything Matters: The ReproNim Perspective on Reproducible Neuroimaging](https://www.frontiersin.org/articles/10.3389/fninf.2019.00001/full) (Kennedy et al., 2019).
 - [The Turing Way](https://the-turing-way.netlify.app/index.html) - Must-read detailed guide on how to conduct research!
@@ -170,7 +171,7 @@ Getting into a field as complicated and challenging as cognitive neuroscience ca
 - [ManyBabies](https://manybabies.org/events/) ManyBabies is 'a collaborative project for replication and best practices in developmental psychology research. Our goal is to bring researchers together to address difficult outstanding theoretical and methodological questions about the nature of early development and how it is studied.' Their events page has useful practical talks on best reproducible practices.
 - [Research Design in the Social Sciences](https://book.declaredesign.org/) A book that 'introduces a new way of thinking about research designs in the social sciences through the MIDA framework, in which a research design is characterized by four elements: a model, an inquiry, a data strategy, and an answer strategy.' Written by Graeme Blair (UCLA), Alexander Coppock (Yale) and Macartan Humphreys (Columbia/WZB Berlin).
 - [Reproducible Computational Environments Using Containers: Introduction to Docker and Singularity](https://epcced.github.io/2024-04-16_containers_bham/index.html) A Carpentries workshop introducing the use of Docker and Singularity containers with the goal of using them to effect reproducible computational environments. Ran by the EPCC Training Team, University of Edinburgh. Also see the [paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008316): 'Ten simple rules for writing Dockerfiles for reproducible data science' (Nüst et al., 2020) and associated [GitHub repository](https://github.com/nuest/ten-simple-rules-dockerfiles).
-
+- [Research Data Management (RDM) Workshop](https://julia-pfarr.github.io/rdm_workshop/) A workshop designed to give a generic overview of RDM principles and practices, including OSF, data management, pre-registration, project and data organisation, version control, data storage and sharing, and copyright and licenses. Created by Julia-Katharina Pfarr, Philipps-Universität Marburg.
 ### Software/tools
 - [Cookiecutter](https://drivendata.github.io/cookiecutter-data-science/) 'A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.' 
 
