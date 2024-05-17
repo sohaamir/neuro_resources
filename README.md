@@ -130,6 +130,10 @@ There are loads and loads of online programming courses and resources, I have ch
 - [Sphinx](https://www.sphinx-doc.org/en/master/) Sphinx is a powerful documentation generator built in Python that has many great features for writing technical documentation.
 - [Jupyter Book](https://jupyterbook.org/en/stable/intro.html) Build beautiful, publication-quality books and documents from computational content using Jupyter.
 - [MkDocs](https://www.mkdocs.org/) 'MkDocs is a fast, simple and downright gorgeous static site generator that's geared towards building project documentation. Documentation source files are written in Markdown, and configured with a single YAML configuration file.' Also see [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/).
+- [Carpentries Template](https://carpentries.github.io/lesson-example/index.html) A template structure for the Software Carpentries.
+### Creating Materials
+- [Marp](https://marp.app/) Marp (Markdown Presentation Ecosystem) allows you to create slide decks usign Markdown.
+- [Thesisdown](https://github.com/ismayc/thesisdown) Similar to bookdown, thesisdown is a Markdown-oriented approach to writing theses using LaTeX templates.
 ### Coding environments
 - [Jupyter](https://peerherholz.github.io/workshop_weizmann/prerequisites/intro_jupyter.html) Jupyter Notebooks are server-client applications that allows editing and running notebook documents via a web browser.
 - [Binder](https://mybinder.readthedocs.io/en/latest/introduction.html) 'The Binder project offers an easy place to share computing environments to everyone. by allowing users to specify custom environments and share them with a single link'. See this [link](https://kaust-vislab.github.io/introduction-to-docker-for-data-scientists/02-getting-started-with-binder/index.html) for a tutorial.
@@ -224,6 +228,7 @@ Open research initiatives are promoting the free availability of code, along wit
 - [Figshare](https://plus.figshare.com/) Figshare is a multidisciplinary repository that supports a wide range of research outputs, including datasets, figures, images, posters, presentations, videos.
 ### Other
 - [The Experiment Factory](https://www.expfactory.org/) An open source, modular infrastructure for the deployment of standardized behavioral experiments, surveys, and games ran by the Poldrack Lab. See the docs [here](https://expfactory.github.io/).
+- [DataLad](https://www.datalad.org/) DataLad is a data management and distribution tool designed to facilitate handling of large datasets. Check out [this](https://psychoinformatics-de.github.io/rdm-course/) Carpentries course and the [DataLad handbook](https://handbook.datalad.org/en/latest/) for an overview.
 
 ## Forums 
 (Neuro)science is a team effort where people are always on hand to help. Online forums are a great source of answers for problems that people have faced in the past, as well as a place to ask for help in solving new ones.
