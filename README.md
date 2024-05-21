@@ -162,10 +162,10 @@ There are loads and loads of online programming courses and resources, I have ch
 
 ## Research guidance, planning and open research practice
 Getting into a field as complicated and challenging as cognitive neuroscience can be overwhelming. These resources are a great guide to organising one's research.
-### Journals/sites
+### Journals
 - [Open Science Framework](https://osf.io/) The Open Science Framework (OSF) is a tool that promotes open, centralized workflows by enabling capture of different aspects and products of the research lifecycle, including developing a research idea, designing a study, storing and analyzing collected data, and writing and publishing reports or papers.
 - [The Journal of Open Source Education](https://jose.theoj.org/) The Journal of Open Source Education is an educator friendly journal for publishing open-source educational materials and software.
-### Guides
+### Guides/courses
 - Useful papers in the field include: [Open and reproducible neuroimaging: From study inception to publication](https://www.sciencedirect.com/science/article/pii/S1053811922007388#sec0014) (Niso et al., 2022), [A Practical Guide for Improving Transparency and Reproducibility in Neuroimaging Research](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002506) (Gorgolewski & Poldrack, 2016), [Computational and Informatic Advances for Reproducible Data Analysis in Neuroimaging](https://www.annualreviews.org/content/journals/10.1146/annurev-biodatasci-072018-021237) (Poldrack, Gorgolewski & Varoquaux, 2019) and [Everything Matters: The ReproNim Perspective on Reproducible Neuroimaging](https://www.frontiersin.org/articles/10.3389/fninf.2019.00001/full) (Kennedy et al., 2019).
 - [The Turing Way](https://the-turing-way.netlify.app/index.html) - Must-read detailed guide on how to conduct research!
 - [The Princeton Handbook for Reproducible Neuroimaging](https://brainhack-princeton.github.io/handbook/index.html) - A great guide for how to conduct reproducible neuroimaging research from the Princeton Neuroscience Institute
@@ -179,8 +179,10 @@ Getting into a field as complicated and challenging as cognitive neuroscience ca
 - [Research Design in the Social Sciences](https://book.declaredesign.org/) A book that 'introduces a new way of thinking about research designs in the social sciences through the MIDA framework, in which a research design is characterized by four elements: a model, an inquiry, a data strategy, and an answer strategy.' Written by Graeme Blair (UCLA), Alexander Coppock (Yale) and Macartan Humphreys (Columbia/WZB Berlin).
 - [Reproducible Computational Environments Using Containers: Introduction to Docker and Singularity](https://epcced.github.io/2024-04-16_containers_bham/index.html) A Carpentries workshop introducing the use of Docker and Singularity containers with the goal of using them to effect reproducible computational environments. Ran by the EPCC Training Team, University of Edinburgh. Also see the [paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008316): 'Ten simple rules for writing Dockerfiles for reproducible data science' (Nüst et al., 2020) and associated [GitHub repository](https://github.com/nuest/ten-simple-rules-dockerfiles).
 - [Research Data Management (RDM) Workshop](https://julia-pfarr.github.io/rdm_workshop/) A workshop designed to give a generic overview of RDM principles and practices, including OSF, data management, pre-registration, project and data organisation, version control, data storage and sharing, and copyright and licenses. Created by Julia-Katharina Pfarr, Philipps-Universität Marburg.
+- [NBIS Tools for reproducible research](https://nbis-reproducible-research.readthedocs.io/en/course_2104/) A course ran by the National Bioinformatics Infrastructure Sweden (NBIS) on reproducibility covering Data management, Conda, Snakemake, Git, Jupyter, Markdown, Docker and Singularity.
 ### Software/tools
-- [Cookiecutter](https://drivendata.github.io/cookiecutter-data-science/) 'A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.' 
+- [Cookiecutter](https://drivendata.github.io/cookiecutter-data-science/) 'A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.'
+- [Docker](https://davetang.github.io/learning_docker/) A comprehensive introductory course to [Docker](https://docs.docker.com/) by [Dave Tang](https://davetang.org/).
 
 ## Philosophy of neuroscience
 What are the limitations of fMRI? What can/can't we infer about the brain using neuroimaging? What does it mean to observe statistically significant activity of the prefrontal cortex in response to a specific stimulus? Asking fundamental questions such as these are pivotal as neuroscientists to understand what our tools can and cannot be used for in our research.
