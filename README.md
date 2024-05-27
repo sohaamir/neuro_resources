@@ -17,6 +17,7 @@ Here are some current 'meta-lists' which already cover a lot of resources, if yo
 - [Awesome Neuroscience](https://github.com/analyticalmonk/awesome-neuroscience) 'A curated list of awesome neuroscience libraries, software and any content related to the domain.'  Created by Akash Tandon.
 - [Computational Psychiatry Starter Pack](https://airtable.com/appzTdqfg1F9FtqUs/shrQO3g80rQwJnarY/tblRhb3w0p96pNsAL/viwBP2ZBRqZhpgl4L?blocks=hide) A list of resources for ECRs interested in delving into computational psychiatry. Created by Aleya Marzuki (Tubingen) and Tsen Vei Lim (Cambridge), to accompany their paper: Bridging minds and policies: supporting early career researchers in translating computational psychiatry research, which can be found [here](https://www.nature.com/articles/s41386-024-01834-1).
 - [Computational Modeling Resources](https://docs.google.com/document/d/1tDbPshnQsbWnuHWbCOj4OzY6yPrD4TZ4fI1W05JzUCw/edit) A Google Doc for resources in Computational Modeling by Caroline Charpentier (Maryland).
+- [fMRI-Resources](https://github.com/jpyles/fMRI-Resources) A GitHub list not dissimilar to this one, providing information and resources on functional MRI. Created by John Pyles.
 
 ## Neuroimaging
 ## Conceptual understanding
@@ -43,6 +44,7 @@ Time to put that knowledge into action. These guides exclusively cover MRI/fMRI 
 - [Explorations of fMRI methods and theory](https://github.com/huffman-spatial-cognition-lab/exploration_of_fMRI_methods_and_theory) A course containing Python notebooks and instructions for running explorations of activation analysis and multivariate pattern analysis (MVPA) to demonstrate the interplay between fMRI methods and theory. Created for an undergraduate cognitive neuroscience course at Colby College by Derek Huffman. See the accompanying preprint [here](https://osf.io/preprints/psyarxiv/8kvfu).
 - [Data analysis for Neuroimaging (DAFNI)](https://schluppeck.github.io/dafni/) Denis Schluppeck's materials for the MSc Cognitive Neuroscience course at the University of Nottingham, covering SPM, git, FSL and MATLAB.
 - [Practice and theory of brain imaging](https://textbook.nipraxis.org/intro.html) A comprehensive course on neuroimaging in Python, with modules on reproducibility in programming/neuroimaging. Created by the Nipraxis team (Matthew Brett, Chris Markiewicz, Oscar Estaban, Zvi Baratz, Peter Rush).
+- [Psych 214 – functional MRI methods](https://bic-berkeley.github.io/psych-214-fall-2016/) A 'hands-on course teaching the principles of functional MRI (fMRI) data analysis' created for students at UC Berkeley by Matthew Brett and JB Poline.
 ### Meta-analysis of fMRI data
 - [NiMARE](https://nimare.readthedocs.io/en/stable/index.html) NiMARE is a Python package for performing meta-analyses, and derivative analyses using meta-analytic data, of the neuroimaging literature, providing a standard syntax for performing a wide range of analyses and for interacting with databases of coordinates and images from fMRI studies.
 - [SDM Project](https://www.sdmproject.com/) Seed-based d Mapping (formerly "Signed Differential Mapping") is a statistical technique for meta-analyzing studies on differences in brain activity or structure which used neuroimaging techniques such as fMRI, VBM, DTI or PET.
@@ -144,7 +146,7 @@ There are loads and loads of online programming courses and resources, I have ch
 - [Codepen](https://codepen.io) An interactive three-tiered window where users can create frontend projects using HTML, CSS, and JavaScript in real-time.
 - [Replit](https://replit.com/) Replit is an online integrated development environment (IDE) that enables users to write, run, and collaborate on code from their browsers.
 
-## Statistics
+## Statistics and statistical thinking
 ### General statistics knowledge
 - [Statistical Thinking for the 21st Century](https://statsthinking21.github.io/statsthinking21-core-site/) Russ Poldrack's guide to statistics and statistical thinking, developed for undergraduates at Stanford.
 - [psych252slides](https://github.com/psych252/psych252slides) Tobias Gerstenberg's slides and RMarkdown notes for the course "Psych 252: Statistical methods for the behavioral and social sciences" at Stanford.
@@ -180,6 +182,8 @@ Getting into a field as complicated and challenging as cognitive neuroscience ca
 - [Reproducible Computational Environments Using Containers: Introduction to Docker and Singularity](https://epcced.github.io/2024-04-16_containers_bham/index.html) A Carpentries workshop introducing the use of Docker and Singularity containers with the goal of using them to effect reproducible computational environments. Ran by the EPCC Training Team, University of Edinburgh. Also see the [paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008316): 'Ten simple rules for writing Dockerfiles for reproducible data science' (Nüst et al., 2020) and associated [GitHub repository](https://github.com/nuest/ten-simple-rules-dockerfiles).
 - [Research Data Management (RDM) Workshop](https://julia-pfarr.github.io/rdm_workshop/) A workshop designed to give a generic overview of RDM principles and practices, including OSF, data management, pre-registration, project and data organisation, version control, data storage and sharing, and copyright and licenses. Created by Julia-Katharina Pfarr, Philipps-Universität Marburg.
 - [NBIS Tools for reproducible research](https://nbis-reproducible-research.readthedocs.io/en/course_2104/) A course ran by the National Bioinformatics Infrastructure Sweden (NBIS) on reproducibility covering Data management, Conda, Snakemake, Git, Jupyter, Markdown, Docker and Singularity.
+- [Computational and Inferential Thinking: The Foundations of Data Science](https://inferentialthinking.com/chapters/intro.html) A online course in data science originally developed for the UC Berkeley course Data 8: Foundations of Data Science by Ani Adhikari, John DeNero and David Wagner.
+- [Coding for data](https://lisds.github.io/textbook/intro.html) An introduction to data science by Matthew Brett, borrowing from the Berkeley textbook above.
 ### Software/tools
 - [Cookiecutter](https://drivendata.github.io/cookiecutter-data-science/) 'A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.'
 - [Docker](https://davetang.github.io/learning_docker/) A comprehensive introductory course to [Docker](https://docs.docker.com/) by [Dave Tang](https://davetang.org/).
