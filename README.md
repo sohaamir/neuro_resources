@@ -18,6 +18,7 @@ Here are some current 'meta-lists' which already cover a lot of resources, if yo
 - [Computational Psychiatry Starter Pack](https://airtable.com/appzTdqfg1F9FtqUs/shrQO3g80rQwJnarY/tblRhb3w0p96pNsAL/viwBP2ZBRqZhpgl4L?blocks=hide) A list of resources for ECRs interested in delving into computational psychiatry. Created by Aleya Marzuki (Tubingen) and Tsen Vei Lim (Cambridge), to accompany their paper: Bridging minds and policies: supporting early career researchers in translating computational psychiatry research, which can be found [here](https://www.nature.com/articles/s41386-024-01834-1).
 - [Computational Modeling Resources](https://docs.google.com/document/d/1tDbPshnQsbWnuHWbCOj4OzY6yPrD4TZ4fI1W05JzUCw/edit) A Google Doc for resources in Computational Modeling by Caroline Charpentier (Maryland).
 - [fMRI-Resources](https://github.com/jpyles/fMRI-Resources) A GitHub list not dissimilar to this one, providing information and resources on functional MRI. Created by John Pyles.
+- [resouRces](https://www.resourcesdatabase.com/) An extensive list of R resources including: Docker, Eye-Tracking, GIT, Machine Learning, Meta-Analyses & Systematic Reviews, R for Neuro and Statistics. Created by Joscelin Rocha-Hidalgo, Penn State University.
 
 ## Neuroimaging
 ## Conceptual understanding
