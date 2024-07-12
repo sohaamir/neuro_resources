@@ -19,6 +19,7 @@ Here are some current 'meta-lists' which already cover a lot of resources, if yo
 - [Computational Modeling Resources](https://docs.google.com/document/d/1tDbPshnQsbWnuHWbCOj4OzY6yPrD4TZ4fI1W05JzUCw/edit) A Google Doc for resources in Computational Modeling by Caroline Charpentier (Maryland).
 - [fMRI-Resources](https://github.com/jpyles/fMRI-Resources) A GitHub list not dissimilar to this one, providing information and resources on functional MRI. Created by John Pyles.
 - [resouRces](https://www.resourcesdatabase.com/) An extensive list of R resources including: Docker, Eye-Tracking, GIT, Machine Learning, Meta-Analyses & Systematic Reviews, R for Neuro and Statistics. Created by Joscelin Rocha-Hidalgo, Penn State University.
+- [Neuroscience Landscape](https://neuroscience-landscape.com/) A GUI-based collection of various groups, software, datasets and courses in neuroscience. It is not specific to neuroimaging, but there are plenty of neuroimaging resources included. By Nikolay Dubina.
 
 ## Neuroimaging
 ## Conceptual understanding
