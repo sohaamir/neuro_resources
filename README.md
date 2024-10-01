@@ -228,11 +228,12 @@ Artificial intelligence is now a pivotal component of academic work, whether we 
 
 ## Accessing/sharing data
 Open research initiatives are promoting the free availability of code, along with raw behavioural and neuroimaging data. Here are some websites where you can both upload your own data and access the data of others.
-### Neuroimaging
+### Neuroimaging/behavioural
 - [Neurovault](https://neurovault.org/) A public repository of unthresholded statistical maps, parcellations, and atlases of the brain.
 - [OpenNeuro](https://openneuro.org/) A public repository of freely available neuroimaging datasets.
 - [NITRC-IR](https://www.nitrc.org/xnat/index.php) 'The NITRC Image Repository allows you to search for and freely download public datasets. It includes millions of dollars worth of DICOM and NIfTI images with normal and diagnoses such as child development disorders, Aspergers, Autism, ADHD, Parkinson’s and Schizophrenia'.
 - [BrainMap](https://www.brainmap.org/) BrainMap is a database of published task and structural neuroimaging experiments with coordinate-based results (x,y,z) in Talairach or MNI space.
+- [OpenCogData](https://nimh-dsst.github.io/OpenCogData/) A database of publicly available cognitive task datasets maintained by Sam Zorowitz and the Data Science and Sharing Team at the National Institute of Mental Health.
 ### General output data (code, slides, posters)
 - [GitHub](https://github.com/) No explanation needed, this is where you are right now!
 - [Zenodo](https://zenodo.org/) An open-access repository developed and maintained by CERN to facilitate the sharing, preservation, and citation of research outputs, including data, presentations and posters.
