@@ -159,6 +159,8 @@ There are loads and loads of online programming courses and resources, I have ch
 - [The Effect: An introduction to Research Design and Causality](https://theeffectbook.net/index.html) The Effect is a book intended to introduce students (and non-students) to the concepts of research design and causality in the context of observational data. Created by Nick Huntington-Klein (Seattle University).
 - [Improving Your Statistical Inferences](https://lakens.github.io/statistical_inferences/) A textbook designed 'to improve statistical inferences, design better experiments, and report scientific research more transparently'. Created by Daniel Läkens.
 - [Seeing Theory](https://seeing-theory.brown.edu/) A visual guide to probability and statistics created by Daniel Kunin, Jingru Guo, Tyler Dae Devlin, and Daniel Xiang.
+- [Learning statistics with R](https://learningstatisticswithr.com/book/) A practical overview of statistics, learned practically through R. By Danielle Navarro, University of Adelaide.
+- [Learning statistics with Python](https://ethanweed.github.io/pythonbook/landingpage.html) A Python adaptation of the 'Learning Statistics with R' by Ethan Weed, Aarhus University.
 
 ### Bayesian statistics
 - [An Introduction to Bayesian Thinking](https://statswithr.github.io/book/) The companion for the 'Bayesian Statistics' course on Coursera, providing an introduction to Bayesian inference in decision making and an open-access introduction to Bayesian inference using R.
