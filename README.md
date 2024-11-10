@@ -161,6 +161,7 @@ There are loads and loads of online programming courses and resources, I have ch
 - [Seeing Theory](https://seeing-theory.brown.edu/) A visual guide to probability and statistics created by Daniel Kunin, Jingru Guo, Tyler Dae Devlin, and Daniel Xiang.
 - [Learning statistics with R](https://learningstatisticswithr.com/book/) A practical overview of statistics, learned practically through R. By Danielle Navarro, University of Adelaide.
 - [Learning statistics with Python](https://ethanweed.github.io/pythonbook/landingpage.html) A Python adaptation of the 'Learning Statistics with R' by Ethan Weed, Aarhus University.
+- [How to Interpret Statistical Models Using `marginaleffects` in R and Python](https://marginaleffects.com/) A free online book 'designed to empower researchers who want to translate model outputs into accurate insights that are accessible to a wide audience.' Created by Vincent Arel-Bundock, Noah Greifer and Andrew Heiss.
 
 ### Bayesian statistics
 - [An Introduction to Bayesian Thinking](https://statswithr.github.io/book/) The companion for the 'Bayesian Statistics' course on Coursera, providing an introduction to Bayesian inference in decision making and an open-access introduction to Bayesian inference using R.
