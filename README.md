@@ -110,7 +110,8 @@ There are loads and loads of online programming courses and resources, I have ch
 - [Data Science for Psychologists](https://bookdown.org/hneth/ds4psy/) An introduction to data science that is tailored to the needs of students in psychology, but is also suitable for students of the humanities and other biological or social sciences. Created by Hansjorg Neth, University of Konstanz.
 - [Statistical Inference via Data Science: A ModernDive into R and the Tidyverse](https://moderndive.com/index.html) The electronic version of the data science book which covers data science with tidyverse, data modeling with moderndive and statistical inference with infer. Created by Chester Ismay (Flatiron School) and Albert Y. Kim (Smith College).
 - [An Introduction to Data Analysis](https://michael-franke.github.io/intro-data-analysis/index.html) Basic reading material for an introduction to data analysis with R, covering the use of R for data wrangling and plotting, and data analysis from a Bayesian and a frequentist tradition. Created by Michael Franke.
-- [Just Enough R](https://benwhalley.github.io/just-enough-r/) Working with data, models (regression, ANOVA, linear models), confidence intervals, multiple comparisons, fixed/random effects. Created by Ben Whalley
+- [Just Enough R](https://benwhalley.github.io/just-enough-r/) Working with data, models (regression, ANOVA, linear models), confidence intervals, multiple comparisons, fixed/random effects. Created by Ben Whalley.
+- [Psy 6135: Psychology of Data Visualization](https://friendly.github.io/6135/) A course in the psychology of data visualization, with practical guidance using `ggplot2()` in `R`. By Michael Friendly (York University).
 ### Python
 - [Michael Notter's Introduction to Python](https://miykael.github.io/nipype_tutorial/notebooks/introduction_Python.html) Uses an interactive notebook format.
 - [Lucas Snoek's Introduction to Python](https://lukas-snoek.com/introPy/solutions/week_1/0_introduction.html) Also uses an interactive `Jupyter` notebook format.
@@ -228,6 +229,7 @@ Artificial intelligence is now a pivotal component of academic work, whether we 
 - [Humata](https://www.humata.ai/) Concisely summarises research papers. has both free and paid plans.
 - [Litmaps](https://app.litmaps.com/) Generate visual maps of connected papers.
 - [Connected Papers](https://www.connectedpapers.com/) Similar to Litmaps, another tool to generate visual diagrams of connected papers.
+- [RegCheck](https://regcheck.app/) An AI tool for automatically comparing preregistration plans with scientific publications. Lead creator: Jamie Cummins (University of Bern).
 
 ## Accessing/sharing data
 Open research initiatives are promoting the free availability of code, along with raw behavioural and neuroimaging data. Here are some websites where you can both upload your own data and access the data of others.
