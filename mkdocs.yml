@@ -1,20 +1,21 @@
 site_name: Useful Learning Resources for Cognitive Neuroscientists
 
-# Theme configuration with enhanced features
+# Theme configuration
 theme:
-  name: material
+  name: mkdocs
   palette:
-    primary: red
+    primary: indigo
     accent: pink
   font:
-    text: SF Pro Display
-    code: SF Mono
+    text: 'Roboto'
+    code: 'Roboto Mono'
   # logo: docs/images/logo.png
-  # favicon: docs/images/logo.png
+  # favicon: docs/images/favicon.png
   features:
     - navigation.tabs
     - navigation.sections
     - navigation.expand
+    - navigation.collapsible
     - toc.integrate
     - search.suggest
     - search.highlight
@@ -24,7 +25,7 @@ repo_name: Neuro Resources
 repo_url: https://github.com/sohaamir/neuro_resources
 edit_uri: blob/main/docs
 
-# Extra configuration for social links and customization
+# Extra configuration
 extra:
   generator: false
   social:
@@ -38,7 +39,7 @@ extra_css:
   - stylesheets/extra.css
   - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css
 
-# Markdown extensions for enhanced formatting
+# Markdown extensions
 markdown_extensions:
   - toc:
       permalink: true
@@ -50,6 +51,6 @@ markdown_extensions:
 # Documentation directory
 docs_dir: docs
 
-# Navigation structure 
+# Navigation structure
 nav:
   - Home: index.md
