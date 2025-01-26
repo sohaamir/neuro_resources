@@ -1,0 +1,24 @@
+title: Useful learning resources for cognitive neuroscientists 🧠 📚
+description: A curated collection of resources for neuroscience and experimental psychology
+remote_theme: rundocs/jekyll-rtd-theme
+
+# Theme settings
+color_scheme: light
+
+# Enable plugins
+plugins:
+  - jekyll-remote-theme
+  - jekyll-readme-index
+  - jemoji
+
+# Navigation
+readme_index:
+  with_frontmatter: true
+
+# Enable search
+search_enabled: true
+
+# Aux links
+aux_links:
+  "View on GitHub":
+    - "https://github.com/sohaamir/neuro_resources"

@@ -1,0 +1,62 @@
+# Python-related
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# MkDocs build directory
+site/
+
+# Jekyll-related
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Compiled files
+*.css.map
+*.scss.map
+
+# Temporary files
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Test scss for the initial site
+guide.md
+style_test.scss
+
+# Build and distribution files
+dist/
+build/
+*.egg-info/
+
+# IDE and editor files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+*.log
+
+# Environment and secret files
+.env
+.credentials
+
+# Backup files
+*.bak
+*.backup
+
+# Images
+docs/images/

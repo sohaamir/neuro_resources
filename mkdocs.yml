@@ -1,0 +1,55 @@
+site_name: Useful Learning Resources for Cognitive Neuroscientists
+
+# Theme configuration with enhanced features
+theme:
+  name: material
+  palette:
+    primary: red
+    accent: pink
+  font:
+    text: SF Pro Display
+    code: SF Mono
+  # logo: docs/images/logo.png
+  # favicon: docs/images/logo.png
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - toc.integrate
+    - search.suggest
+    - search.highlight
+
+# Repository information
+repo_name: Neuro Resources
+repo_url: https://github.com/sohaamir/neuro_resources
+edit_uri: blob/main/docs
+
+# Extra configuration for social links and customization
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/sohaamir
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/AamirNSohail
+
+# Additional CSS for custom styling
+extra_css:
+  - stylesheets/extra.css
+  - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css
+
+# Markdown extensions for enhanced formatting
+markdown_extensions:
+  - toc:
+      permalink: true
+  - admonition
+  - codehilite
+  - footnotes
+  - pymdownx.details
+
+# Documentation directory
+docs_dir: docs
+
+# Navigation structure 
+nav:
+  - Home: index.md
