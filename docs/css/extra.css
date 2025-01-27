@@ -1,0 +1,27 @@
+/* Container layout adjustments */
+.container {
+    max-width: 95% !important;
+    width: 95% !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+
+/* Sidebar adjustments */
+.col-md-3 {
+    padding-left: 0 !important;
+    width: 15% !important;  /* Make sidebar narrower */
+}
+
+.bs-sidebar {
+    margin-left: 0 !important;
+    padding-left: 5px !important;
+    width: 100% !important;
+}
+
+/* Content area adjustments */
+.col-md-9 {
+    width: 85% !important;
+    padding-left: 20px !important;
+    float: right !important;
+}
+

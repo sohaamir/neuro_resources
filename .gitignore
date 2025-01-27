@@ -58,6 +58,7 @@ build/
 *.bak
 *.backup
 
-# Images and assets
+# Images, assets and Jekyll files from previous build
 docs/images/
 assets/
+jekyll/

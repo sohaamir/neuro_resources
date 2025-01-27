@@ -21,9 +21,9 @@ theme:
     - search.highlight
 
 # Repository information
-repo_name: Neuro Resources
+# repo_name: the GitHub repository
 repo_url: https://github.com/sohaamir/neuro_resources
-edit_uri: blob/main/docs
+edit_uri: https://github.com/sohaamir/neuro_resources
 
 # Extra configuration
 extra:
@@ -36,17 +36,27 @@ extra:
 
 # Additional CSS for custom styling
 extra_css:
-  - stylesheets/extra.css
+  - css/extra.css
   - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css
+
+# Additional JavaScript for custom scripts
+extra_javascript:
+  - js/custom.js
 
 # Markdown extensions
 markdown_extensions:
   - toc:
       permalink: true
+      toc_depth: 4
+      baselevel: 1
+      slugify: !!python/name:markdown.extensions.toc.slugify_unicode
+  - attr_list
+  - md_in_html
   - admonition
   - codehilite
   - footnotes
   - pymdownx.details
+  - pymdownx.superfences
 
 # Documentation directory
 docs_dir: docs
