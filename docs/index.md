@@ -8,18 +8,16 @@ permalink: /
 
 # Useful learning resources for cognitive neuroscientists
 
-![Visitors](https://pageview.vercel.app/?github_user=chbh-opensource)
+![Visitors](https://pageview.vercel.app/?github_user=sohaamir/neuro_resources)
 <a href="https://sohaamir.github.io/neuro_resources/" target="_blank"><a href="https://github.com/sohaamir/neuro_resources/commits/main" target="_blank">
   <img src="https://img.shields.io/github/last-commit/sohaamir/neuro_resources" alt="Last Commit"></a>
 <a href="https://github.com/sohaamir/neuro_resources/graphs/contributors" target="_blank">
   <img src="https://img.shields.io/github/contributors/sohaamir/neuro_resources" alt="Contributors"></a> <a href="https://github.com/sohaamir/neuro_resources" target="_blank">
   <img src="https://img.shields.io/github/stars/sohaamir/neuro_resources?style=social" alt="GitHub stars"></a>
 
+Simultaneously taking inspiration from others' lists and wanting to have a decidicated space for my own without having to save dozens of tabs, I have decided to create my own (non-exhaustive) list of links and pages for neuroscientists covering conceptual subject knowledge, statistics, software, programming, good research practices and online repositories. The list is geared more towards <b>cognitive neuroscience and experimental psychology</b>, and in particular those using <b>fMRI</b> (as this is my own subject area), but regardless of your field within neuroscience/psychology and beyond there should be some useful resources 😊 
 
-
-Simultaneously taking inspiration from others' lists and wanting to have a decidicated space for my own without having to save dozens of tabs, I have decided to create my own (non-exhaustive) list of links and pages for neuroscientists covering conceptual subject knowledge, statistics, software, programming, good research practices and online repositories. The list is geared more towards cognitive neuroscience and experimental psychology, and in particular those using fMRI (as this is my own subject area), but regardless of your field within neuroscience/psychology and beyond there should be some useful resources 😊 
-
-I aim to update it frequently, and will purposely leave out some resources covered by others which I have not used personally. I also will focus more on resources that are 'online-oriented' i.e., not articles or textbooks, although I will include guides written in the style of an 'online book' as they are interactive and often are the best method of learning. Feel free to star/fork this repo or to suggest your own resources for me to add!
+I aim to update it frequently, and will purposely leave out some resources covered by others which I have not used personally. I also will focus more on resources that are <b>'online-oriented'</b> i.e., not articles or textbooks, although I will include guides written in the style of an 'online book' as they are interactive and often are the best method of learning. <b>Feel free to star/fork this repo or to suggest your own resources for me to add!</b>
 
 ## Existing lists of resources
 Here are some current 'meta-lists' which already cover a lot of resources, if you don't see a particularly obvious resource in my list, odds are that it is in one of these: 
@@ -398,10 +396,19 @@ Open research initiatives are promoting the free availability of code, along wit
 ## Other
 Miscannelous tools that don't fit into any of the other categories.
 
+### Brain atlases and catalogues
 - [Neurosynth](https://neurosynth.org/) A platform for coordinate-based meta-analysis on neuroimaging data.
 - [BrainBox](https://brainbox.pasteur.fr/) A platform for real-time collaboration in neuroimaging allowing you to visualise, segment and annotate collaboratively any brain MRI dataset available online.
 - [Cognitive Atlas](https://www.cognitiveatlas.org/) 'A collaborative knowledge base characterizing the state of current thought in Cognitive Science'. It covers four main themes: concepts, tasks, disorders and theroies in neuroscience, which are linked together through formal definitions. Ran by Russ Poldrack, Stanford.
 - [Neurotorium Brain Atlas](https://neurotorium.org/tool/brain-atlas/) A 3-D interactive brain atlas which describes the function of different brain regions, with references.
 - [Brain Catalogue](https://braincatalogue.org/) An online catalogue of brains across many species.
-- [Allison Horst](https://allisonhorst.com/) Artwork for various R-related themes and concepts.
 
+### Icons and illustrations
+- [Allison Horst](https://allisonhorst.com/) Artwork for various R-related themes and concepts.
+- [Icons8](https://icons8.com/) Vast collection of icons, illustrations, and photos with multiple styles and formats.
+- [Flaticon](https://www.flaticon.com/) Extensive database of free vector icons in various formats.
+- [The Noun Project](https://thenounproject.com/) Simple and distinctive symbol-based icons for virtually any concept.
+- [Font Awesome](https://fontawesome.com/) Popular icon library widely used in web development, with both free and pro versions.
+- [Heroicons](https://heroicons.com/) Beautiful hand-crafted SVG icons by the makers of Tailwind CSS.
+- [Bootstrap Icons](https://icons.getbootstrap.com/) Free, high quality icon library built for Bootstrap framework.
+- [Carbon](https://carbon.now.sh/) Create and share beautiful images of your source code.
