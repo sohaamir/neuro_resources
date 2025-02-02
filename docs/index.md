@@ -8,7 +8,7 @@ permalink: /
 
 # Useful learning resources for cognitive neuroscientists
 
-![Visitors](https://pageview.vercel.app/?github_user=sohaamir/neuro_resources)
+![Visitors](https://pageview.vercel.app/?github_user=sohaamir&github_repo=neuro_resources)
 <a href="https://sohaamir.github.io/neuro_resources/" target="_blank"><a href="https://github.com/sohaamir/neuro_resources/commits/main" target="_blank">
   <img src="https://img.shields.io/github/last-commit/sohaamir/neuro_resources" alt="Last Commit"></a>
 <a href="https://github.com/sohaamir/neuro_resources/graphs/contributors" target="_blank">
