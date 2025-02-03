@@ -2,26 +2,27 @@ site_name: Useful Learning Resources for Cognitive Neuroscientists
 
 # Theme configuration
 theme:
-  name: mkdocs
+  name: material
   palette:
     primary: indigo
     accent: pink
   font:
     text: 'Roboto'
     code: 'Roboto Mono'
-  # logo: docs/images/logo.png
-  # favicon: docs/images/favicon.png
   features:
     - navigation.tabs
     - navigation.sections
+    - navigation.indexes
     - navigation.expand
     - navigation.collapsible
     - toc.integrate
     - search.suggest
     - search.highlight
+    - navigation.footer
+    - navigation.instant
 
 # Repository information
-# repo_name: the GitHub repository
+repo_name: neuro_resources
 repo_url: https://github.com/sohaamir/neuro_resources
 edit_uri: https://github.com/sohaamir/neuro_resources
 
@@ -64,3 +65,5 @@ docs_dir: docs
 # Navigation structure
 nav:
   - Home: index.md
+  - Neuroscience Resources: neuro_resources.md
+  - NeurOpportunities: neuropportunities.md

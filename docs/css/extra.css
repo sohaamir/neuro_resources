@@ -25,3 +25,48 @@
     float: right !important;
 }
 
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+    padding: 1rem;
+}
+
+.grid-item {
+    background: #ffffff;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    padding: 1.5rem;
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.grid-item:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.explore-button {
+    display: inline-block;
+    margin-top: 1rem;
+    padding: 0.5rem 0;
+    color: #3f51b5;
+    font-weight: 500;
+    transition: color 0.2s;
+}
+
+.explore-button:hover {
+    color: #283593;
+}
+
+.grid-item h2 {
+    margin-top: 0;
+    color: #2c3e50;
+}
+
+.wm-toc-li {
+    display: none;
+}
+
+.toctree-l1:not(:first-child) {
+    display: none;
+}
