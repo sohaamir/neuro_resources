@@ -200,6 +200,8 @@ There are loads and loads of online programming courses and resources, I have ch
 
 - [Psy 6135: Psychology of Data Visualization](https://friendly.github.io/6135/) A course in the psychology of data visualization, with practical guidance using `ggplot2()` in `R`. By Michael Friendly (York University).
 
+- [easystats](https://easystats.github.io/easystats/) 'a collection of R packages, which aims to provide a unifying and consistent framework to tame, discipline, and harness the scary R statistics and their pesky models.' Developed by Daniel Lüdecke, Dominique Makowski, Mattan S. Ben-Shachar, Indrajeet Patil, Brenton M. Wiernik, Etienne Bacher and Rémi Thériault.
+
 ### Python
 - [Michael Notter's Introduction to Python](https://miykael.github.io/nipype_tutorial/notebooks/introduction_Python.html) Uses an interactive notebook format.
 - [Lucas Snoek's Introduction to Python](https://lukas-snoek.com/introPy/solutions/week_1/0_introduction.html) Also uses an interactive `Jupyter` notebook format.
@@ -373,6 +375,7 @@ Open research initiatives are promoting the free availability of code, along wit
 - [NITRC-IR](https://www.nitrc.org/xnat/index.php) 'The NITRC Image Repository allows you to search for and freely download public datasets. It includes millions of dollars worth of DICOM and NIfTI images with normal and diagnoses such as child development disorders, Aspergers, Autism, ADHD, Parkinson’s and Schizophrenia'.
 - [BrainMap](https://www.brainmap.org/) BrainMap is a database of published task and structural neuroimaging experiments with coordinate-based results (x,y,z) in Talairach or MNI space.
 - [OpenCogData](https://nimh-dsst.github.io/OpenCogData/) A database of publicly available cognitive task datasets maintained by Sam Zorowitz and the Data Science and Sharing Team at the National Institute of Mental Health.
+- [Psychological stimulus sets and datasets](https://docs.google.com/spreadsheets/u/0/d/1ejOJTNTL5ApCuGTUciV0REEEAqvhI2Rd2FCoj7afops/htmlview#) A Google Sheet listing freely-available datasets within psychology. 
 
 ### General output data (code, slides, posters)
 - [GitHub](https://github.com/) No explanation needed, this is where you are right now!
