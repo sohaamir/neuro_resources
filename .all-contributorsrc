@@ -23,18 +23,6 @@
   "commitType": "docs",
   "commitConvention": "angular",
   "contributors": [
-    {
-      "login": "sohaamir",
-      "name": "Aamir Sohail",
-      "avatar_url": "https://avatars.githubusercontent.com/u/35841800?v=4",
-      "profile": "http://sohaamir.github.io",
-      "contributions": [
-        "code",
-        "doc",
-        "content",
-        "maintenance"
-      ]
-    }
   ]
 }
 
