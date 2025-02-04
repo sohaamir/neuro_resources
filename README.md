@@ -14,7 +14,15 @@ Thanks to the contributors!
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="http://sohaamir.github.io"><img src="https://avatars.githubusercontent.com/u/35841800?v=4" width="100px;" alt=""/><br /><sub><b>Aamir Sohail</b></sub></a></td>
+    </tr>
+  </tbody>
+</table>
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
