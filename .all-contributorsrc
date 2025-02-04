@@ -3,7 +3,9 @@
   "projectOwner": "sohaamir",
   "repoType": "github",
   "repoHost": "https://github.com",
-  "files": ["README.md"],
+  "files": [
+    "README.md"
+  ],
   "imageSize": 100,
   "commit": false,
   "contributorsPerLine": 7,
@@ -17,5 +19,21 @@
       "link": "[<%= symbol %>](<%= url %> \"<%= description %>\")"
     }
   },
-  "skipCi": true
+  "skipCi": true,
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "sohaamir",
+      "name": "Aamir Sohail",
+      "avatar_url": "https://avatars.githubusercontent.com/u/35841800?v=4",
+      "profile": "http://sohaamir.github.io",
+      "contributions": [
+        "code",
+        "doc",
+        "content",
+        "maintenance"
+      ]
+    }
+  ]
 }
