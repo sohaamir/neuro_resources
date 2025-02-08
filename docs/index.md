@@ -1,4 +1,4 @@
-# Welcome to the Neuroscience Resources Hub
+# The Neuroscience Resources Hub
 
 ![Visitors](https://pageview.vercel.app/?github_user=sohaamir&github_repo=neuro_resources)
 <a href="https://sohaamir.github.io/neuro_resources/" target="_blank"><a href="https://github.com/sohaamir/neuro_resources/commits/main" target="_blank">
@@ -7,31 +7,51 @@
   <img src="https://img.shields.io/github/contributors/sohaamir/neuro_resources" alt="Contributors"></a> <a href="https://github.com/sohaamir/neuro_resources" target="_blank">
   <img src="https://img.shields.io/github/stars/sohaamir/neuro_resources?style=social" alt="GitHub stars"></a>
 
-This collection of resources aims to support cognitive neuroscientists, researchers, and students in their academic and professional journey.
+This collection of resources aims to support cognitive neuroscientists, researchers, and students develop skills and create opportunities in the psychological sciences.
 
-<div class="grid-container" markdown>
+<style>
+.grid-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem;
+    margin: 2rem 0;
+}
 
-<div class="grid-item" markdown>
-<a href="neuro_resources" style="text-decoration: none; color: inherit;">
-## 🧠 Neuro Resources
-    
-A curated collection of essential tools, software, and learning materials for neuroscience research. Includes data analysis tools, neuroimaging resources, and recommended reading materials.
+.grid-item {
+    background: #fff;
+    padding: 1.5rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
 
-[Explore Resources →](neuro_resources.md){: .explore-button}
-</a>
+.explore-button {
+    display: inline-block;
+    margin-top: 1rem;
+    padding: 0.5rem 1rem;
+    color: #4051b5;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.explore-button:hover {
+    text-decoration: underline;
+}
+</style>
+
+<div class="grid-container">
+    <div class="grid-item">
+        <h2>🧠 Neuro Resources</h2>
+        <p>A curated collection of essential tools, software, and learning materials for neuroscience research. Includes data analysis tools, neuroimaging resources, and recommended reading materials.</p>
+        <a href="neuro_resources" class="explore-button">Explore Resources →</a>
+    </div>
+
+    <div class="grid-item">
+        <h2>🔬 NeurOpportunities</h2>
+        <p>Find information about career development, funding opportunities, conferences, workshops, and networking resources in neuroscience.</p>
+        <a href="neuropportunities" class="explore-button">Discover Opportunities →</a>
+    </div>
 </div>
 
-<div class="grid-item" markdown>
-<a href="neuropportunities" style="text-decoration: none; color: inherit;">
-## 🔬 Neuropportunities
-
-Find information about career development, funding opportunities, conferences, workshops, and networking resources in neuroscience.
-
-[Discover Opportunities →](neuropportunities.md){: .explore-button}
-</a>
-</div>
-
-</div>
 
 ## About This Site
 

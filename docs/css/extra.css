@@ -1,30 +1,15 @@
-/* Container layout adjustments */
-.container {
-    max-width: 95% !important;
-    width: 95% !important;
-    margin-left: auto !important;
-    margin-right: auto !important;
+/* Material theme sidebar adjustments */
+.md-sidebar--primary {
+    width: 300px;
+    margin-left: -30px;
 }
 
-/* Sidebar adjustments */
-.col-md-3 {
-    padding-left: 0 !important;
-    width: 15% !important;  /* Make sidebar narrower */
+/* Content adjustments /
+.md-content {
+    margin-left: 270px; / 300px - 30px */
 }
 
-.bs-sidebar {
-    margin-left: 0 !important;
-    padding-left: 5px !important;
-    width: 100% !important;
-}
-
-/* Content area adjustments */
-.col-md-9 {
-    width: 85% !important;
-    padding-left: 20px !important;
-    float: right !important;
-}
-
+/* Grid layout */
 .grid-container {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
@@ -61,12 +46,4 @@
 .grid-item h2 {
     margin-top: 0;
     color: #2c3e50;
-}
-
-.wm-toc-li {
-    display: none;
-}
-
-.toctree-l1:not(:first-child) {
-    display: none;
 }
