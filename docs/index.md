@@ -47,7 +47,7 @@ This collection of resources aims to support cognitive neuroscientists, research
 
     <div class="grid-item">
         <h2>🔬 NeurOpportunities</h2>
-        <p>Find information about career development, funding opportunities, conferences, workshops, and networking resources in neuroscience.</p>
+        <p>Find useful information regarding career development, funding opportunities, conferences, workshops, outreach programs and networking resources in neuroscience.</p>
         <a href="neuropportunities" class="explore-button">Discover Opportunities →</a>
     </div>
 </div>

@@ -1,8 +1,8 @@
 # Useful opportunity resources for neuroscientists 🧠 📚
 
-Similar to my neuro_resources list, I found myself consistently saving loads of tabs associated with the various opportunities I came across. This primarily included summer schools, conferences, outreach programs, public events; essentially anything a cognitive neuroscientist PhD student in Birmingham could get involved with.
+Similar to my neuroscience resources list, I found myself consistently saving loads of tabs associated with the various opportunities I came across. This primarily included summer schools, conferences, outreach programs, public events; essentially anything a cognitive neuroscientist PhD student in Birmingham could get involved with.
 
-So, following my neuro_resources list I felt the need to collate together another list, one with opportunities for neuroscientists (mainly within the UK). 😊 
+So, I felt the need to collate together another list, one with opportunities for neuroscientists (mainly within the UK). 😊 
 
 I aim to update it frequently, but as with my other list (and lists in general) it is not intended to be comprehensive. Feel free to suggest your own resources for me to add!
 

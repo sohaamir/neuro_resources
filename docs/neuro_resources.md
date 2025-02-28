@@ -262,6 +262,8 @@ There are loads and loads of online programming courses and resources, I have ch
 
 - [How to Interpret Statistical Models Using `marginaleffects` in R and Python](https://marginaleffects.com/) A free online book 'designed to empower researchers who want to translate model outputs into accurate insights that are accessible to a wide audience.' Created by Vincent Arel-Bundock, Noah Greifer and Andrew Heiss.
 
+- [Causal Inference](https://mixtape.scunning.com/) An online book in causal inference using various statistical techniques. Created by Scott Cunningham.
+
 ### Bayesian statistics
 - [An Introduction to Bayesian Thinking](https://statswithr.github.io/book/) The companion for the 'Bayesian Statistics' course on Coursera, providing an introduction to Bayesian inference in decision making and an open-access introduction to Bayesian inference using R.
 
@@ -319,6 +321,8 @@ Getting into a field as complicated and challenging as cognitive neuroscience ca
 - [Coding for data](https://lisds.github.io/textbook/intro.html) An introduction to data science by Matthew Brett, borrowing from the Berkeley textbook above.
 
 - [Experimentology: An Open Science Approach to Experimental Psychology Methods](https://experimentology.io/) Experimentology, as described by the authors is 'the set of practices, findings, and approaches that enable the construction of robust, precise, and generalizable experiments'. Created as the foundational course for incoming graduate students in the Stanford psychology department, it provides guidance for preregistration, project management, data sharing, and reproducible report writing. Authored by: Michael C. Frank, Mika Braginsky, Julie Cachia, Nicholas A. Coles, Tom E. Hardwicke, Robert D. Hawkins, Maya B. Mathur and Rondeline Williams.
+
+- [Experiment Cookbook](https://experimentcookbook.com/) A guide book for programming experiments using oTree, a widely-used Python-based framework for behavioral experiments. Created by Ali Seyhun Saral and Austėja Kažemekaitytė.
 
 ### Software/tools
 - [Cookiecutter](https://drivendata.github.io/cookiecutter-data-science/) 'A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.'

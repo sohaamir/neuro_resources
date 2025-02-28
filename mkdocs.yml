@@ -67,5 +67,5 @@ docs_dir: docs
 # Navigation structure
 nav:
   - Home: index.md
-  - Neuroscience Resources: neuro_resources.md
+  - Neuro Resources: neuro_resources.md
   - NeurOpportunities: neuropportunities.md
