@@ -279,6 +279,8 @@ There are loads and loads of online programming courses and resources, I have ch
 
 - [Course Handouts for Bayesian Data Analysis Class](https://psyc-bayes-notes.netlify.app/) The online collection course handouts for PSYC 621 class taught by Mark Lai, USC. More courses regarding statistics in Psychology can be found on his website [here](https://quantscience.rbind.io/course).
 
+- [Bayes Rules! An Introduction to Applied Bayesian Modeling](https://www.bayesrulesbook.com/) An online book teaching students Bayesian approaches and their everyday modern practice in statistics and data science, using R and `rstan`. By Alicia A. Johnson, Miles Q. Ott and Mine Dogucu.
+
 ## Research guidance, planning and open research practice
 Getting into a field as complicated and challenging as cognitive neuroscience can be overwhelming. These resources are a great guide to organising one's research.
 
