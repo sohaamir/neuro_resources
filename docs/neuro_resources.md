@@ -264,6 +264,8 @@ There are loads and loads of online programming courses and resources, I have ch
 
 - [Causal Inference](https://mixtape.scunning.com/) An online book in causal inference using various statistical techniques. Created by Scott Cunningham.
 
+-[STAT 245 Course Notes](https://stacyderuiter.github.io/s245-notes-bookdown/index.html) An online course in regression modelling, covering many different regression model types (linear, zero-inflated, binary) model selection using information criteria, and model validation. Created by Stacy DeRuiter, Calvin University.
+
 ### Bayesian statistics
 - [An Introduction to Bayesian Thinking](https://statswithr.github.io/book/) The companion for the 'Bayesian Statistics' course on Coursera, providing an introduction to Bayesian inference in decision making and an open-access introduction to Bayesian inference using R.
 
