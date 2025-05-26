@@ -283,6 +283,8 @@ There are loads and loads of online programming courses and resources, I have ch
 
 - [Bayes Rules! An Introduction to Applied Bayesian Modeling](https://www.bayesrulesbook.com/) An online book teaching students Bayesian approaches and their everyday modern practice in statistics and data science, using R and `rstan`. By Alicia A. Johnson, Miles Q. Ott and Mine Dogucu.
 
+- [Statistical rethinking with brms, ggplot2, and the tidyverse](https://bookdown.org/content/4857/) An online book designed to accompany Richard McElreath's book of the same name, implementing and testing models under the Bayesian framework using `brms` and `R`. Created by A. Solomon Kurz.
+
 ## Research guidance, planning and open research practice
 Getting into a field as complicated and challenging as cognitive neuroscience can be overwhelming. These resources are a great guide to organising one's research.
 
