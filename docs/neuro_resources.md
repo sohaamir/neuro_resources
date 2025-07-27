@@ -122,6 +122,7 @@ Some platforms commonly used for the recruitment and deployment of behavioural e
 - [zTree](https://www.ztree.uzh.ch/en.html) A widely used software package for developing and carrying out economic experiments.
 - [oTree](https://www.otree.org/), [LIONESS](https://lioness-lab.org/) and [nodeGame](https://nodegame.org/) are three popular options for creating real-time interactive experiments.
 - [Phaser](https://phaser.io/learn) An open source framework for creating interactive games. Increasingly used to create 'gamified' behavioural tasks. See [Agnes Norbury's page](https://github.com/agnesnorbury) for some cool examples.
+- [Dallinger](https://dallinger.readthedocs.io/latest/index.html) Dallinger is an alternative tool to automate experiments that use combinations of automated bots and human subjects recruited on platforms like Mechanical Turk and Prolific.
 
 ## Computational modeling/computational psychiatry
 Resources for learning how to use computational models for understanding brain (dis)function.
@@ -146,6 +147,8 @@ Resources for learning how to use computational models for understanding brain (
 - [Handbook for Utility Modeling in Social Decision-Making](https://social-utility-modeling.readthedocs.io/en/latest/index.html) A handbook which aims to 'walk, step-by-step, through the process of computationally modeling behavior in value-based social decision-making tasks - complete with conceptual examples and four fully fledged walk-throughs that you can complete yourself'. Created by Elijah Galvan, Donders Institute, Nijmegen.
 
 - [Probability Distribution Explorer](https://distribution-explorer.github.io/index.html) A tool to explore commonly used probability distributions, particularly useful for setting priors in modeling. By Justin Bois, Caltech.
+
+- [Probabilistic Models of Cognition](http://probmods.org/) An online book exploring the probabilistic approach to cognitive science, which aims to model learning and reasoning as inference in complex probabilistic models. By Noah Goodman, Joshua Tenenbaum, and The ProbMods Contributors.
 
 ### Workshops/Groups/Summer Schools
 - [Computational Psychiatry Course Zurich](https://www.translationalneuromodeling.org/cpcourse/) A leading 6-day course organized by the Translational Neuromodeling Unit (TNU), University of Zurich & ETH Zurich designed to provide MSc and PhD students, scientists clinicians and anyone interested in Computational Psychiatry with the necessary toolkit to master challenges in computational psychiatry research. Whilst the workshop is delivered yearly in person, resources for past courses are made available.
